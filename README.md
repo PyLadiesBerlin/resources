@@ -1,4 +1,4 @@
-materials
+Materials from talks
 =========
 
-Slides and exercises from talks
+Slides, exercises and links to all the useful material. 

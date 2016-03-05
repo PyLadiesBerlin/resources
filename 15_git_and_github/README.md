@@ -2,4 +2,4 @@
 
 ### Speakers: Betty Kalogeropoulou and Luminita Lazarescu
 
-http://lluminita.github.io/pyladies-git-presentation/
+Presentation: http://lluminita.github.io/pyladies-git-presentation/

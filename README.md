@@ -38,6 +38,8 @@ Here is a selection of useful resources as well as slides, exercises and materia
 - 18 [Git and github](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/18_git_and_github)
 - 19 [Telegram Bots](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/19_Telegram_Bots)
 - 20 [Python beginners workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/20_python_beginners_workshop)
+- 21 [MicroPython IoT workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/21_Micro_Python_IoT_Workshop)
+- 22 [Hardware Hackevening Resources](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/22_Hardware_hack_evening)
 
 
 ## 🐛 Issues or suggestions

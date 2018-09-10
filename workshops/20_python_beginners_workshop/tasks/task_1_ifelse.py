@@ -1,3 +1,11 @@
+'''
+TASK 01
+This first chunk of comment contains the exercises you should answer. Under it (from line 5 on) is the beginning of the code for your text adventure, that's where you're going to write your answers.
+A - Read the following code and try to understand what it does.
+B - Run the file and checked if happens what you imagined it would.
+C - Get creative! Right after the inline comments, add a second door using the elif statement.
+'''
+
 print()
 print("Welcome to the dungeon!")
 print("Do you go through door 1 or door 2?")
@@ -19,8 +27,7 @@ if door == "1":
     else:
         print("You are not so good with numbers, are you?")
 
-# GET CREATIVE:
-# add door 2 here with elif.
+# Exercise C
 
 else:
     print("You are not so good with numbers, are you?")

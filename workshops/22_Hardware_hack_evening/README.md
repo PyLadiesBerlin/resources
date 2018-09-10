@@ -1,5 +1,5 @@
 
-![Hardware Hack evening](/https://github.com/PyLadiesBerlin/resources/blob/master/workshops/22_Hardware_hack_evening/hardware-hackevening.png)
+![Hardware Hack evening](https://github.com/PyLadiesBerlin/resources/blob/master/workshops/22_Hardware_hack_evening/hardware-hackevening.png)
 
 # 📚 Resources 🤖
 
@@ -49,7 +49,7 @@ Here is a selection of useful resources for getting started in Hardware hacking.
 - [Heart of Code](http://heartofcode.org/) *(beginner friendly hardware co-learning)*
 - [Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning current focus on hardware)*
 - [Raspberry jam Berlin](http://raspberryjamberlin.de/)
-- [Berlin IoT Makers](https://www.meetup.com/Berlin-IoT-Makers-Workshop/
+- [Berlin IoT Makers](https://www.meetup.com/Berlin-IoT-Makers-Workshop/)
 - [Hardware.co](https://www.meetup.com/hardwaredotco/)
 - [Python Users Group Berlin](https://www.meetup.com/Python-Users-Berlin-PUB/)
 

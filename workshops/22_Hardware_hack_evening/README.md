@@ -6,52 +6,52 @@
 Here is a selection of useful resources for getting started in Hardware hacking.
 
 ## :computer: Websites for learning about IoT
-[Hackster](https://www.hackster.io/) *(website for learning about hardware)*
-[Coursera course for IoT](https://www.coursera.org/specializations/iot) *(MOOC)*
-[Adafruit](https://www.adafruit.com/) *(Awesome site for all things hardware!)*
-[Women in Hardware](https://www.youtube.com/watch?v=Idv8r_f8x_k) *(Video series with women working in hardware)*
-[IoT podcast](https://iotpodcast.com/) *(Podcast about IoT)*
+- [Hackster](https://www.hackster.io/) *(website for learning about hardware)*
+- [Coursera course for IoT](https://www.coursera.org/specializations/iot) *(MOOC)*
+- [Adafruit](https://www.adafruit.com/) *(Awesome site for all things hardware!)*
+- [Women in Hardware](https://www.youtube.com/watch?v=Idv8r_f8x_k) *(Video series with women working in hardware)*
+- [IoT podcast](https://iotpodcast.com/) *(Podcast about IoT)*
 
 ## :computer: Resources split by language/ hardware
 ## 🐍 MicroPython
-[Official forum for MicroPython](https://forum.micropython.org/viewtopic.php?t=76)
-[Workshop from MicroPython X PyLadies event](https://github.com/tine3700/micropython/tree/master/docs/pyboard/tutorial)
+- [Official forum for MicroPython](https://forum.micropython.org/viewtopic.php?t=76)
+- [Workshop from MicroPython X PyLadies event](https://github.com/tine3700/micropython/tree/master/docs/pyboard/tutorial)
 
 ## ♾️ Arduino
-[Coursera course for Arduino](https://www.coursera.org/learn/arduino) *(MOOC)*
-[Official forum for Arduino](http://forum.arduino.cc/)
+- [Coursera course for Arduino](https://www.coursera.org/learn/arduino) *(MOOC)*
+- [Official forum for Arduino](http://forum.arduino.cc/)
 
 ## 🍓 Raspberry Pi
-[Raspbery Pi Workshop on Udemy](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/) *(MOOC)*
-[Piborg](https://www.piborg.org/) *(online shop for building Raspberry Pi robots)*
+- [Raspbery Pi Workshop on Udemy](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/) *(MOOC)*
+- [Piborg](https://www.piborg.org/) *(online shop for building Raspberry Pi robots)*
 
-[Official Website for Raspberry Pi](https://www.raspberrypi.org/resources/learn/)
-[Mod My Pi](https://www.modmypi.com/)
-[Haynes manual for Raspberry pi](https://www.amazon.com/dp/0857332953) *(Book)*
-[Magpi](https://www.raspberrypi.org/magpi/) *(online magasine that you can download for free, full of projects & inspiration)*
-[Pi Podcast](https://thepipodcast.com/)
-[Reddit channel for Raspberry pi](https://www.reddit.com/r/raspberry_pi/)
+- [Official Website for Raspberry Pi](https://www.raspberrypi.org/resources/learn/)
+- [Mod My Pi](https://www.modmypi.com/)
+- [Haynes manual for Raspberry pi](https://www.amazon.com/dp/0857332953) *(Book)*
+- [Magpi](https://www.raspberrypi.org/magpi/) *(online magasine that you can download for free, full of projects & inspiration)*
+- [Pi Podcast](https://thepipodcast.com/)
+- [Reddit channel for Raspberry pi](https://www.reddit.com/r/raspberry_pi/)
 
 ## 🐹 Go
-[Write in Go for the Raspberry Pi](https://gobot.io/documentation/getting-started/)
+- [Write in Go for the Raspberry Pi](https://gobot.io/documentation/getting-started/)
 
 ## 👁️ JavaScript
-[Write in Javascript for the Raspberry Pi](https://cylonjs.com/)
+- [Write in Javascript for the Raspberry Pi](https://cylonjs.com/)
 
 ## 💎 Ruby
-[Write in Ruby for the Raspberry Pi](http://artoo.io/)
+- [Write in Ruby for the Raspberry Pi](http://artoo.io/)
 
  ## 🐘PHP
-[PHP on Raspberry Pi resources](https://github.com/PiPHP/Resources)
+- [PHP on Raspberry Pi resources](https://github.com/PiPHP/Resources)
 
  
 ## 👩‍💻Other Berlin based Meetups
-[Heart of Code](http://heartofcode.org/) *(beginner friendly hardware co-learning)*
-[Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning current focus on hardware)*
-[Raspberry jam Berlin](http://raspberryjamberlin.de/)
-[Berlin IoT Makers](https://www.meetup.com/Berlin-IoT-Makers-Workshop/
-[Hardware.co](https://www.meetup.com/hardwaredotco/)
-[Python Users Group Berlin](https://www.meetup.com/Python-Users-Berlin-PUB/)
+- [Heart of Code](http://heartofcode.org/) *(beginner friendly hardware co-learning)*
+- [Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning current focus on hardware)*
+- [Raspberry jam Berlin](http://raspberryjamberlin.de/)
+- [Berlin IoT Makers](https://www.meetup.com/Berlin-IoT-Makers-Workshop/
+- [Hardware.co](https://www.meetup.com/hardwaredotco/)
+- [Python Users Group Berlin](https://www.meetup.com/Python-Users-Berlin-PUB/)
 
 
 ### :smiley: :trophy: Addding resources yourself

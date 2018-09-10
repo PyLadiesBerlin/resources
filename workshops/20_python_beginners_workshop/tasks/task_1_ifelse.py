@@ -1,9 +1,14 @@
 '''
 TASK 01
-This first chunk of comment contains the exercises you should answer. Under it (from line 5 on) is the beginning of the code for your text adventure, that's where you're going to write your answers.
+
+This first chunk of comment contains the exercises you should answer. Under it
+(from line 10 on) is the beginning of the code for your text adventure, that's
+where you're going to write your answers.
+
 A - Read the following code and try to understand what it does.
-B - Run the file and checked if happens what you imagined it would.
-C - Get creative! Right after the inline comments, add a second door using the elif statement.
+B - Run the file and check if what you imagined really happens.
+C - Get creative! Right after the inline comments, add a second door using the
+elif statement.
 '''
 
 print()

@@ -1,6 +1,10 @@
 '''
 TASK 02
-Now that you created new doors for your player to choose from, let's personalize the game a little bit. Write the answer to each exercise under its related inline comment.
+
+Now that you created new doors for your player to choose from, let's
+personalize the game a little bit. Write the answer to each exercise under its
+related inline comment.
+
 A - Ask the name of the player and store the answer on a variable.
 B - Use the variable in which you stored the players name to print a welcoming.
 C - Time to get creative! Ask one more question to the player and use their answer.

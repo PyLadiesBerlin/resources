@@ -5,6 +5,9 @@
 
 Here is a selection of useful resources for getting started in Hardware hacking.
 
+No Hardware? No Problem!
+You can test out scripts on this browser version of the [MicroPython Pyboard](http://www.micropython.org/unicorn/)!
+
 ## :computer: Websites for learning about IoT
 - [Hackster](https://www.hackster.io/) *(website for learning about hardware)*
 - [Coursera course for IoT](https://www.coursera.org/specializations/iot) *(MOOC)*

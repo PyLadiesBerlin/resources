@@ -2,7 +2,7 @@
 TASK 01
 
 This first chunk of comment contains the exercises you should answer. Under it
-(from line 10 on) is the beginning of the code for your text adventure, that's
+(from line 13 on) is the beginning of the code for your text adventure, that's
 where you're going to write your answers.
 
 A - Read the following code and try to understand what it does.

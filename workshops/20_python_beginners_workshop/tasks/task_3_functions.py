@@ -10,14 +10,16 @@ C - Now think a bit, how would you write a dead-function using an argument
 called death_message? Create this function.
 '''
 
+# Exercise A
+
+# Exercise C
+
 print()
 # Your code from Exercise A on Task 2 should be here
 
 # Your code from Exercise B on Task 2 should be here
 
 print("Do you go through door 1 or door 2?")
-
-# Exercise A
 
 door = input("> ")
 
@@ -43,4 +45,3 @@ else:
 
 # Your code from Exercise C on Task 2 should be here
 
-# Exercise 03

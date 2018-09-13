@@ -1,17 +1,20 @@
+'''
+TASK 04
+
+A - Check if the input the user gave you is bigger/smaller than 50 with: if int(some_input) > 50
+B - Create actions for each case (bigger or smaller)
+'''
+
+# Your code from Exercise A on Task 3 should be here
+
+# Your code from Exercise C on Task 3 should be here
+
 print()
-print("What is your name?")
+# Your code from Exercise A on Task 2 should be here
 
-name = input("> ")
+# Your code from Exercise B on Task 2 should be here
 
-print("Hello %s, welcome the the dungeon!" % (name))
 print("Do you go through door 1 or door 2?")
-
-def wrong_input():
-    print("You are not so good with numbers, are you?")
-
-# create function with an argument
-def dead(death_message):
-    print("You are dead.", death_message)
 
 door = input("> ")
 
@@ -26,13 +29,16 @@ if door == "1":
     if vampire == "1":
         print("Congratulations %s, you found a new friend!" % (name))
     elif vampire == "2":
-        # using function
         dead("Sorry %s, the vampire is faster. You become a dinner." % (name))
     else:
-        wrong_input()
+        # Your code from Exercise B on Task 3 should be here
 
-# GET CREATIVE:
-# check if the input the user gave you is bigger/smaller than 50 with: if int(some_input) > 50
+# Your code from Task 1 should be here
 
 else:
     wrong_input()
+
+# Your code from Exercise C on Task 2 should be here
+
+# Exercise A
+    # Exercise B

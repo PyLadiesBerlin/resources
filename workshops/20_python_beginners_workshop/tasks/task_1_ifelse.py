@@ -5,7 +5,7 @@ This first chunk of comment contains the exercises you should answer. Under it
 (from line 13 on) is the beginning of the code for your text adventure, that's
 where you're going to write your answers.
 
-A - Read the following code and try to understand what it does.
+A - Type the following code and save it in a file and try to understand what it does.
 B - Run the file and check if what you imagined really happens.
 C - Get creative! Right after the inline comments, add a second door using the
 elif statement.

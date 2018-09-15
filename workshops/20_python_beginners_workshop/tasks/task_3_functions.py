@@ -1,14 +1,25 @@
+'''
+TASK 03
+
+Functions time!
+
+A - Create a function that prints and alert of wrong input (something to
+substitute the answer of the else's).
+B - Use your function where it applies.
+C - Now think a bit, how would you write a dead-function using an argument
+called death_message? Create this function.
+'''
+
+# Exercise A
+
+# Exercise C
+
 print()
-print("What is your name?")
+# Your code from Exercise A on Task 2 should be here
 
-name = input("> ")
+# Your code from Exercise B on Task 2 should be here
 
-print("Hello %s, welcome the the dungeon!" % (name))
 print("Do you go through door 1 or door 2?")
-
-# create function
-def wrong_input():
-    print("You are not so good with numbers, are you?")
 
 door = input("> ")
 
@@ -25,11 +36,12 @@ if door == "1":
     elif vampire == "2":
         print("Sorry %s, the vampire is faster. You become a dinner." % (name))
     else:
-        # use function
-        wrong_input()
+        # Exercise B
 
-# GET CREATIVE:
-# how would you write a dead-function using an argument called death_message?
+# Your code from Task 1 should be here
 
 else:
     wrong_input()
+
+# Your code from Exercise C on Task 2 should be here
+

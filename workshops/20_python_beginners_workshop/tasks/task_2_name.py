@@ -1,11 +1,20 @@
+'''
+TASK 02
+
+Now that you created new doors for your player to choose from, let's
+personalize the game a little bit. Write the answer to each exercise under its
+related inline comment.
+
+A - Ask the name of the player and store the answer on a variable.
+B - Use the variable in which you stored the players name to print a welcoming.
+C - Time to get creative! Ask one more question to the player and use their answer.
+'''
+
 print()
-print("What is your name?")
+# Exercise A
 
-# store input in 'name' 
-name = input("> ")
+# Exercise B
 
-# use input in a print statement
-print("Hello %s, welcome the the dungeon!" % (name))
 print("Do you go through door 1 or door 2?")
 
 door = input("> ")
@@ -25,8 +34,9 @@ if door == "1":
     else:
         print("You are not so good with numbers, are you?")
 
-# GET CREATIVE:
-# Ask your player a second question and use the answer.
+# Your code from Task 1 should be here
 
 else:
     print("You are not so good with numbers, are you?")
+
+# Exercise C

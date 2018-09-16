@@ -2,7 +2,7 @@
 
 We ask you to install two things:
 1. Python 3 interpreter, so that you can run your code.
-2. Pycharm - a powerful editor[^1] to make your programming efforts easier.
+2. Pycharm - a powerful programming environment to make your programming efforts easier.
 
 ## Table of Contents
 * [Installing Python 3](#installing-python-3)
@@ -102,14 +102,14 @@ Here, `package_name` can refer to any Python package or library, such as Django 
 
 Although Mac OS X comes with Python pre-installed, it is a wrong version of Python (2.7) and we need to install a new one (3.X, currently 3.6 or 3.7). 
 
-1. Install Xcode. It is required to install Homebrew and Python. Download it from the App store. After a lengthy download and install process, open a terminal and type the following command to install Xcode Command Line tools which are required for Homebrew:
+1. Install Xcode: It is required to install Homebrew and Python. Download it from the App store. After a lengthy download and install process, open a terminal and type the following command to install Xcode Command Line tools which are required for Homebrew:
 
 ```
 xcode-select —-install
 ```
-2. Install Homebrew. Go to [Homebrew website](https://brew.sh) and follow the instructions to install it.
+2. Install Homebrew: Go to [Homebrew website](https://brew.sh) and follow the instructions to install it.
 
-3. Install Python. Now that Homebrew is installed, use it to install python. The OSX system will still use the built-in system python, but anything you do will use the newly installed python. In the terminal type
+3. Install Python: Now that Homebrew is installed, use it to install python. The OSX system will still use the built-in system python, but anything you do will use the newly installed python. In the terminal type
 ```
 brew install python3
 ```

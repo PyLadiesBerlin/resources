@@ -21,12 +21,4 @@ You can expect this result:
 B
 ~~~
 
-### Optional:
-
-You can build your program with all grades according to this table:
-
-- 90 or higher should get an "A"
-- 80 - 89 should get a "B"
-- 70 - 79 should get a "C"
-- 65 - 69 should get a "D"
-- Anything below a 65 should receive an "F"
+**Note**: there can be more grades, of course ;)

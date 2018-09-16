@@ -1,6 +1,6 @@
 # Exercise 2: Boolean & Comparisons
 
-This is the way how you usually write comments in Python:
+This is the way how you write comments in Python:
 
 ~~~Python
 # Hi! I'm Anna and I live in practice_boolean.md.

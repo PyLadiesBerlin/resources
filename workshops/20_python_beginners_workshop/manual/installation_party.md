@@ -12,7 +12,7 @@ We ask you to install two things:
 Choose your operating system and follow the instructions:
 * [Windows](#windows)
 * [Linux](#linux) on an example of Ubuntu
-* [Mac OS](#mac-os)
+* [Mac OS X](#mac-os-x)
 
 ### Windows 
 
@@ -58,36 +58,68 @@ C:\Users\youruser>python
 'python' is not recognized as an internal or external command,
 operable program or batch file.
 ```
-then something went wrong. Try again or search for support on our Slack channel.
+then something went wrong. Try again or search for support on our Slack.
 
 ### Linux
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula auctor viverra. Sed dapibus efficitur quam quis scelerisque. Nam efficitur ornare nisi. Vivamus placerat mi id maximus pellentesque. Aliquam ultricies sapien porta ante lobortis, non feugiat turpis vulputate. Vestibulum porttitor augue tortor, id volutpat leo condimentum eu. Curabitur id facilisis velit. Aliquam erat volutpat. Nullam varius iaculis quam, sit amet sagittis magna. Sed non fringilla orci. Donec fermentum lorem ipsum, placerat dictum lacus dapibus et. Aenean molestie lorem ut erat efficitur fringilla. Nunc viverra, orci eu eleifend vestibulum, turpis nibh lacinia lacus, ac ultrices turpis neque sed mauris. Maecenas mattis nibh vel suscipit pellentesque. Aenean eu mauris rhoncus nisi iaculis malesuada eget et tortor.
+Ubuntu (at least as of 16.04 LTE) ships with both Python 3 and Python 2 pre-installed. To make sure our versions are up-to-date run:
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
+typing in your password and agreeing when necessary.
 
-Quisque convallis diam ac ultrices sodales. Nulla facilisi. Etiam vitae metus facilisis, elementum arcu in, laoreet enim. Nullam ut leo id libero dapibus consequat. Quisque felis augue, faucibus non nunc ut, interdum venenatis neque. Vivamus volutpat magna orci, nec viverra ligula efficitur sed. Sed vel magna convallis, fringilla tellus nec, eleifend ante.
+Once the process is complete, we can check the version of Python 3 that is installed in the system by typing:
 
-Maecenas nec est tempor, egestas justo faucibus, pulvinar odio. Aenean vulputate odio ut eros hendrerit pretium. Sed a velit eget turpis ornare auctor vitae nec lectus. Proin fringilla velit arcu, sit amet volutpat risus auctor eget. Fusce hendrerit iaculis vehicula. Phasellus ac turpis non velit rhoncus egestas non a augue. Nullam id erat aliquam quam placerat congue sit amet sed dolor.
+```
+python3 -V
+```
 
-Pellentesque vestibulum, dui eu feugiat maximus, dui massa dignissim neque, ac consectetur lacus mi sit amet elit. Maecenas a urna non odio sodales consectetur ut id nulla. Suspendisse sit amet pellentesque quam. Duis tempor purus sed metus varius efficitur. Proin interdum dolor in lacus lobortis lacinia ac ac lectus. Sed at porttitor sapien. Praesent efficitur semper porta. In blandit fringilla sodales. Vestibulum blandit posuere risus. Morbi pharetra hendrerit tristique. Praesent sed consequat turpis, condimentum pulvinar lectus.
+You will receive output in the terminal window that will let you know the version number. The version number may vary, but it will look similar to this:
 
-Quisque facilisis sapien hendrerit, porttitor ante eu, posuere dui. Donec commodo, mauris sit amet dictum accumsan, tortor diam lobortis urna, ac interdum tortor justo vitae est. Sed molestie, metus ut condimentum consequat, urna odio feugiat velit, id facilisis lectus urna eget sem. Integer et mauris vitae lectus suscipit dignissim nec ac sapien. Mauris ligula nunc, ultricies non ullamcorper scelerisque, aliquam et diam. Sed a orci dolor. Suspendisse potenti. Nulla bibendum metus nec ipsum tempus, sit amet fringilla urna dignissim. Quisque porta tristique nibh vitae molestie. Suspendisse volutpat enim a sapien tempor, eget sodales ante mattis.
+```
+Python 3.6.5
+```
 
-### Mac OS
+To manage software packages for Python, let’s install pip:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula auctor viverra. Sed dapibus efficitur quam quis scelerisque. Nam efficitur ornare nisi. Vivamus placerat mi id maximus pellentesque. Aliquam ultricies sapien porta ante lobortis, non feugiat turpis vulputate. Vestibulum porttitor augue tortor, id volutpat leo condimentum eu. Curabitur id facilisis velit. Aliquam erat volutpat. Nullam varius iaculis quam, sit amet sagittis magna. Sed non fringilla orci. Donec fermentum lorem ipsum, placerat dictum lacus dapibus et. Aenean molestie lorem ut erat efficitur fringilla. Nunc viverra, orci eu eleifend vestibulum, turpis nibh lacinia lacus, ac ultrices turpis neque sed mauris. Maecenas mattis nibh vel suscipit pellentesque. Aenean eu mauris rhoncus nisi iaculis malesuada eget et tortor.
+```
+sudo apt-get install -y python3-pip
+```
 
-Quisque convallis diam ac ultrices sodales. Nulla facilisi. Etiam vitae metus facilisis, elementum arcu in, laoreet enim. Nullam ut leo id libero dapibus consequat. Quisque felis augue, faucibus non nunc ut, interdum venenatis neque. Vivamus volutpat magna orci, nec viverra ligula efficitur sed. Sed vel magna convallis, fringilla tellus nec, eleifend ante.
+A tool for use with Python, pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
 
-Maecenas nec est tempor, egestas justo faucibus, pulvinar odio. Aenean vulputate odio ut eros hendrerit pretium. Sed a velit eget turpis ornare auctor vitae nec lectus. Proin fringilla velit arcu, sit amet volutpat risus auctor eget. Fusce hendrerit iaculis vehicula. Phasellus ac turpis non velit rhoncus egestas non a augue. Nullam id erat aliquam quam placerat congue sit amet sed dolor.
+```
+pip3 install package_name
+```
 
-Pellentesque vestibulum, dui eu feugiat maximus, dui massa dignissim neque, ac consectetur lacus mi sit amet elit. Maecenas a urna non odio sodales consectetur ut id nulla. Suspendisse sit amet pellentesque quam. Duis tempor purus sed metus varius efficitur. Proin interdum dolor in lacus lobortis lacinia ac ac lectus. Sed at porttitor sapien. Praesent efficitur semper porta. In blandit fringilla sodales. Vestibulum blandit posuere risus. Morbi pharetra hendrerit tristique. Praesent sed consequat turpis, condimentum pulvinar lectus.
+Here, `package_name` can refer to any Python package or library, such as Django for web development or NumPy for scientific computing. So if you would like to install NumPy, you can do so with the command `pip3 install numpy`.
 
-Quisque facilisis sapien hendrerit, porttitor ante eu, posuere dui. Donec commodo, mauris sit amet dictum accumsan, tortor diam lobortis urna, ac interdum tortor justo vitae est. Sed molestie, metus ut condimentum consequat, urna odio feugiat velit, id facilisis lectus urna eget sem. Integer et mauris vitae lectus suscipit dignissim nec ac sapien. Mauris ligula nunc, ultricies non ullamcorper scelerisque, aliquam et diam. Sed a orci dolor. Suspendisse potenti. Nulla bibendum metus nec ipsum tempus, sit amet fringilla urna dignissim. Quisque porta tristique nibh vitae molestie. Suspendisse volutpat enim a sapien tempor, eget sodales ante mattis.
+
+### Mac OS X
+
+Although Mac OS X comes with Python pre-installed, it is a wrong version of Python (2.7) and we need to install a new one (3.X, currently 3.6 or 3.7). 
+
+1. Install Xcode. It is required to install Homebrew and Python. Download it from the App store. 
 
 ## Installing PyCharm
 
-From the [download page of PyCharm](https://www.jetbrains.com/pycharm/download/) download the **Community** edition for your OS. Run the installer. After you're done with the installer run PyCharm. If everything went well you should see something like this:
+PyCharm is an [Integrated Development Enviroment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment)) for Python that allows you to write, run and debug code, easily intergrate your projects with remote repositories, and many more.
 
+Below are instructions for various operating systems. If you are running on Windows or you OS is not listed then follow the instructions in the [Direct download section](#direct-download).
 
+### Ubuntu
 
-[^1]: PyCharm is actually an [Integrated Development Enviroment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment)) rather than a simple editor.
+In "Ubuntu Software" search for "PyCharm CE". If available install it. If not, follow the instructions in the [Direct download section](#direct-download).
+
+### Mac OS X
+
+In "App Store" search for "PyCharm CE" or "PyCharm Community Edition". If available install it from there.
+
+If not, follow the instructions in the [Direct download section](#direct-download).
+
+### Direct download 
+
+If running on Ubuntu or Mac OS check for PyCharm community edition in . If available, it is okay to install it from the store.
+
+From the [download page of PyCharm](https://www.jetbrains.com/pycharm/download/) download the **Community** edition for your OS. Run the installer. 

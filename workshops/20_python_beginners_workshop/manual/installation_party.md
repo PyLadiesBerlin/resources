@@ -1,17 +1,17 @@
 # Installation Party
 
-We'll ask you to do two installations: 
-1. Python interpreter so that you can run your code.
+We ask you to install two things:
+1. Python 3 interpreter, so that you can run your code.
 2. Pycharm - a powerful editor[^1] to make your programming efforts easier.
 
 ## Table of Contents
-* [Installing Python](#installing-python-3)
+* [Installing Python 3](#installing-python-3)
 * [Installing PyCharm](#installing-pycharm)
 
 ## Installing Python 3
 Choose your operating system and follow the instructions:
 * [Windows](#windows)
-* [Linux](#linux)
+* [Linux](#linux) on an example of Ubuntu
 * [Mac OS](#mac-os)
 
 ### Windows 
@@ -21,9 +21,9 @@ You can go with official Python release but we do not recommend it. Primarily, b
 Instead, we recommend that you go with Anaconda distribution of Python, specifically tailored for data analysis. 
 1. Go to [Anaconda download page](https://www.anaconda.com/download/).
 1. Choose the Python 3.X version. At the time of writing it is version 3.6.
-1. Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. If you are wondering whether you should choose a 64-bit or a 32-bit installer, see our [Shall I choose a 32-bit or a 64-bit installer?](os_architecture.md) page.
-1. Download and run the installer.
-1. When prompted where to install Anaconda, copy the suggested location aside (we'll need it later on) OR change it to something that you will easily find afterwards (like `C:\Anaconda3`).
+1. Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. If you are not sure which is right for you, see our [Shall I choose a 32-bit or a 64-bit installer?](os_architecture.md) page.
+1. Download and run the installer. 
+  * When prompted where to install Anaconda, copy the suggested location aside (we'll need it later on) OR change it to something that you will easily find afterwards (like `C:\Anaconda3`).
 
 Once you have your Anaconda installed, there is one trick that will make your life easier. Follow these steps:
 
@@ -31,11 +31,14 @@ Once you have your Anaconda installed, there is one trick that will make your li
 1. In the "User variables" section (top one) 
   * press "New...". 
   * Variable name: `PYTHON3`. 
-  * Variable value: `[Anaconda_dir];[Anaconda_dir]\Scripts;[Anaconda_dir]\Library\bin;` replacing `[Anaconda_dir]` with the directory you copied aside in step 5.`. 
+  * Variable value: `[Anaconda_dir];[Anaconda_dir]\Scripts;[Anaconda_dir]\Library\bin;` replacing `[Anaconda_dir]` with the directory you copied aside in step 5. 
   * Press "OK". You just created a new User variable `PYTHON3`. 
 8. Do you have a `Path` User variable?
   * If not, press "New...". In the window that just showed set Variable name: `Path`. Variable value: `%PYTHON3%`. Press "OK". 
   * If yes, press "Edit..". In the window that just showed press "New" (that will make the last row of the table editable) and paste `%PYTHON3%` there. 
+  
+In the end it should look something like this:
+![Python Environment Variable](images/environment_variables.png "Python environment variables")
   
 Now, if everything worked fine you should be able to access Python from any location. Test it:
 1. Press "Windows" key, type "cmd" (that should find a command prompt) and press Enter. 

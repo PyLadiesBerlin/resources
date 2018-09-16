@@ -21,7 +21,4 @@ Read the comments and then create a variable called `age_is_7` and set it to be 
 Create a variable called `name_is_anna` and set it to be `True` or `False` depending on if this person's name is Anna.
 
 Of course, you can create more variables with `True` or `False`.
-
-**3.**
-Compare 2 variables with: **and**, **or**, **!=**, **==**.
-
+If you want, you can compare them with **and**, **or**, **!=**, **==**.

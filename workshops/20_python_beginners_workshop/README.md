@@ -9,7 +9,7 @@ Blogpost with further Explanations:
 
 ## Links for Installation Party:
 
-See main article: [Installation Party](installation_party.md).
+See main article: [Installation Party](manual/installation_party.md).
 
 ## Recommended Learning Materials:
 

@@ -1,24 +1,35 @@
 # Shall I choose 32-Bit or 64-Bit installer?
 
+In general, if your operating system has a 32-Bit architecture, choose a 32-Bit installer. If it has a 64-Bit architecture, choose a 64-Bit one. 
+
+To find out the architecture of your OS 
+
 * [macOS](#macOS)
 * [Ubuntu](#ubuntu)
 * [Windows](#windows)
 
 ## macOS
 
-macOS is fairly bitness-agnostic, so either version should work.
+Note: Mac OS X 10.6 Snow Leopard is the last release that a 32-bit Intel Mac can run, Mac OS X 10.7 Lion and up are, by default, 64-bit.
 
+Launch "System Information"[^1] and click on the Software heading in the Contents section. The line 64-bit Kernel and Extensions will say Yes if you are running the 64-bit kernel and No if you are running the 32-bit kernel[#StackExchange:2017][].
 
 ## Ubuntu
 
-![Ubuntu](ubuntu_architecture.png "Ubuntu system type")
+Press your Meta key (most likely it is your "Windows" key), type "about", and select "About" in "Settings". 
+
 ![Ubuntu](images/ubuntu_architecture.png "Ubuntu system type")
 
 ## Windows
 
-Press "Start" button, type "about" and select "About your PC". 
+Press "Windows" key, type "about" and select "About your PC". 
 
-![Windows](windows_architecture.png "Windows system type")
+![Windows](images/windows_architecture.png "Windows system type")
 
 
 
+[^1]: or "System Profiler" on Mac OS X 10.6 Snow Leopard
+
+## References
+[#StackExchange:2017]: [How to check whether my Intel-based Mac is 32-bit or 64-bit
+ on StackExchange.com](https://apple.stackexchange.com/questions/12666/how-to-check-whether-my-intel-based-mac-is-32-bit-or-64-bit)

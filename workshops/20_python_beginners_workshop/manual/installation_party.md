@@ -87,7 +87,9 @@ To manage software packages for Python, let’s install pip:
 sudo apt-get install -y python3-pip
 ```
 
-A tool for use with Python, pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+and you're ready to roll! 
+
+Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
 
 ```
 pip3 install package_name
@@ -100,7 +102,32 @@ Here, `package_name` can refer to any Python package or library, such as Django 
 
 Although Mac OS X comes with Python pre-installed, it is a wrong version of Python (2.7) and we need to install a new one (3.X, currently 3.6 or 3.7). 
 
-1. Install Xcode. It is required to install Homebrew and Python. Download it from the App store. 
+1. Install Xcode. It is required to install Homebrew and Python. Download it from the App store. After a lengthy download and install process, open a terminal and type the following command to install Xcode Command Line tools which are required for Homebrew:
+
+```
+xcode-select —-install
+```
+2. Install Homebrew. Go to [Homebrew website](https://brew.sh) and follow the instructions to install it.
+
+3. Install Python. Now that Homebrew is installed, use it to install python. The OSX system will still use the built-in system python, but anything you do will use the newly installed python. In the terminal type
+```
+brew install python3
+```
+
+4. Finally, upgrade you Python package manager called `pip` to the latest version: 
+
+```
+pip3 install -U pip3
+```
+and you're done!
+
+Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+
+```
+pip3 install package_name
+```
+
+Here, `package_name` can refer to any Python package or library, such as Django for web development or NumPy for scientific computing. So if you would like to install NumPy, you can do so with the command `pip3 install numpy`.
 
 ## Installing PyCharm
 

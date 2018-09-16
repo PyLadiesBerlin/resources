@@ -1,6 +1,6 @@
-# Shall I choose 32-Bit or 64-Bit installer?
+# Shall I choose a 32-bit or a 64-bit installer?
 
-In general, if your operating system has a 32-Bit architecture, choose a 32-Bit installer. If it has a 64-Bit architecture, choose a 64-Bit one. 
+In general, if your operating system has a 32-bit architecture, choose a 32-bit installer. If it has a 64-bit architecture, choose a 64-bit one. 
 
 To find out the architecture of your OS 
 

@@ -13,6 +13,8 @@ Choose your operating system and follow the instructions:
 * [Windows](#windows)
 * [Linux](#linux) on an example of Ubuntu
 * [Mac OS X](#mac-os-x)
+* [Chrome OS](#chrome-os)
+* [I can't install Python / Nothing works](#i-cant-install-python)
 
 ### Windows 
 
@@ -69,27 +71,27 @@ sudo apt-get upgrade
 ```
 typing in your password and agreeing when necessary.
 
-Once the process is complete, we can check the version of Python 3 that is installed in the system by typing:
+Once the process is complete, check the version of Python 3 that is installed in the system by typing:
 
 ```
 python3 -V
 ```
 
-You will receive output in the terminal window that will let you know the version number. The version number may vary, but it will look similar to this:
+The output in the terminal window will let you know the version number. The version number may vary, but it will look similar to this:
 
 ```
 Python 3.6.5
 ```
 
-To manage software packages for Python, let’s install pip:
+To manage software packages for Python, install pip:
 
 ```
 sudo apt-get install -y python3-pip
 ```
 
-and you're ready to roll! 
+Congratulations, your Python installation is complete and you're ready to roll! 
 
-Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+Note: pip installs and manages programming packages one may want to use in their development projects. You can install Python packages by typing:
 
 ```
 pip3 install package_name
@@ -121,13 +123,21 @@ pip3 install -U pip3
 ```
 and you're done!
 
-Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+Note: pip installs and manages programming packages one may want to use in their development projects. You can install Python packages by typing:
 
 ```
 pip3 install package_name
 ```
 
 Here, `package_name` can refer to any Python package or library, such as Django for web development or NumPy for scientific computing. So if you would like to install NumPy, you can do so with the command `pip3 install numpy`.
+
+### Chrome OS
+
+For instructions please [see this thread on StackExchange](https://unix.stackexchange.com/questions/84160/running-python-on-chromeos). 
+
+### I can't install Python / Nothing works
+
+Another available option is to use a browser-based environment. We recommend [codenvy.com](https://codenvy.com/). It is quick to set up and will allow you to follow along the workshop.
 
 ## Installing PyCharm
 

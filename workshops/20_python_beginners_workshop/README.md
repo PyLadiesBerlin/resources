@@ -27,20 +27,37 @@ https://repl.it/languages/python3
 ## Meetups & Community
 
 1. PyLadies https://www.meetup.com/PyLadies-Berlin/
-- very beginner Python meetup for women & their friends
+- very beginner friendly Python meetup for women & their friends, some times the talks are more advanced, but begineers can always get something.
 
-2. Open Tech School
+2. Open Tech School, Python co-learning
 https://www.meetup.com/opentechschool-berlin/?chapter_analytics_code=UA-33344154-1
 They organize a Python co-learning meetup every 2. week on Mondays. People are very friendly and they are many coaches.
 
-3. Women Who Code
-These women rock! They do 3 talks in one evening and you can get an overview what you can create with your programming skills. It is beginner friendly and women want to get to know each other. It does not matter which programming language they use. It feels like real conference to go there. The meetup is 1x month. https://www.meetup.com/Women-Who-Code-Berlin-Germany/
+3. Open Tech School, Data science co-learning (mainly in Python)
+https://www.meetup.com/opentechschool-berlin/?chapter_analytics_code=UA-33344154-1
+They organize a Data science co-learning meetup every 2. week on Thursdays, mainly in Python. People are very friendly and they are many coaches.
 
-3. Coding Amigos
-The meetup hackatons every Tuesday and Friday. You code whole night - you have to come over with the project. People teach you things if you ask them questions. Very nice meetup. https://www.meetup.com/CodingAmigos/
+4. Women Who Code nights
+These women rock! They do 3 talks in one evening and you can get an overview 
+what you can create with your programming skills. It is beginner friendly and women want to get to know each other. It does not matter which programming language they use. It feels like real conference to go there. 
+The meetup is 1x month. https://www.meetup.com/Women-Who-Code-Berlin-Germany/
 
-4. DjangoGirls
-In Berlin organized 1x year. You have to apply in advance. Check the Django Girls website for more details regularly. As mentioned above you can go through the materials yourself as well.
+5. Women Who Code - hack nights
+Another great opportunity to focus on learning and/or developing your project. Women
+of all different programming languages get together and work on their programming projects!
 
-5. Rails Girls Summer of Code
+6. DjangoGirls
+In Berlin organized 1x or 2x per year. You have to apply in advance. This tutorial/full day workshop teaches you the basic of python web development with Django. Check the Django Girls website for more details regularly. As mentioned above you can go through the materials yourself as well https://tutorial.djangogirls.org/.
+
+7. Rails Girls Summer of Code
 Self-organized sponsored program for women interesting in trying a programmer job. Start with the application process very soon - the best is to start in January in order to create your team!!! :) https://railsgirlssummerofcode.org/
+
+8. Women Techmakers
+Sponsored by Google. Having interested talks and learning meetups for other technologies.
+
+9. Heart of Code
+Women hack space. Bi-weekly python co-learning meetup. German and English speaking.
+Make sure to contact them before going for the first time as their space is under ongoing maintenance.
+
+10. Open Source Diversity
+Open source welcomes beginners. Join them to contribute to open source projects. You can choose a python one!

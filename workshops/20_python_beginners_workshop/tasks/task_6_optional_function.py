@@ -1,3 +1,9 @@
+"""
+TASK 06
+
+Practice more functions. Use the code below.
+A. Get creative write a function your_room. Check where it is called in the room
+"""
 from sys import exit
 
 # start room
@@ -19,7 +25,7 @@ def bank_room():
 
     if choice.isdigit():
 
-        if int(choice) > 0 and int(choice) < 50: 
+        if int(choice) > 0 and int(choice) < 50:
             print("Nice, you're not greedy, you win!")
             exit(0)
         elif int(choice) > 50:
@@ -29,9 +35,7 @@ def bank_room():
         dead("Man, learn to type a number.")
 
 
-# GET CREATIVE:
-# Write a function for your_room
-
+# Exercise A
 
 def dead(why):
     print(why, "You are dead.")

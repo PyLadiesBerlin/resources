@@ -9,11 +9,7 @@ Blogpost with further Explanations:
 
 ## Links for Installation Party:
 
-1. Install Python https://tutorial.djangogirls.org/en/installation/
-
-2. Install Sublime www.sublimetext.com/3
-
-3. Install GitHub Desktop https://desktop.github.com
+See main article: [Installation Party](manual/installation_party.md).
 
 ## Recommended Learning Materials:
 

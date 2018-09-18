@@ -1,12 +1,14 @@
 # Installation Party
 
-We ask you to install two things:
-1. Python 3 interpreter, so that you can run your code.
-2. Pycharm - a powerful programming environment to make your programming efforts easier.
+We ask you to do three things:
+1. Install Python 3 interpreter, so that you can run your code.
+2. Install Pycharm - a powerful programming environment to make your programming efforts easier.
+3. Create an account on [github.com](github.com).
 
 ## Table of Contents
 * [Installing Python 3](#installing-python-3)
 * [Installing PyCharm](#installing-pycharm)
+* [Creating github account](#creating-github-account)
 
 ## Installing Python 3
 Choose your operating system and follow the instructions:
@@ -160,3 +162,19 @@ If not, follow the instructions in the [Direct download section](#direct-downloa
 If running on Ubuntu or Mac OS check for PyCharm community edition in . If available, it is okay to install it from the store.
 
 From the [download page of PyCharm](https://www.jetbrains.com/pycharm/download/) download the **Community** edition for your OS. Run the installer. 
+
+## Creating Github account
+
+During the workshop we will be making use of git and of Github.
+
+[Git](https://en.wikipedia.org/wiki/Git) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
+
+[Github](http://github.com) is a web-based hosting service for version control using Git. 
+
+To create an account on Github:
+1. Go to [github.com](github.com)
+2. Fill in the form and "Sign up for Github".
+
+
+![Github](images/github.png "Github")
+

@@ -1,18 +1,22 @@
 # Installation Party
 
-We ask you to install two things:
-1. Python 3 interpreter, so that you can run your code.
-2. Pycharm - a powerful programming environment to make your programming efforts easier.
+We ask you to do three things:
+1. Install Python 3 interpreter, so that you can run your code.
+2. Install Pycharm - a powerful programming environment to make your programming efforts easier.
+3. Create an account on [github.com](github.com).
 
 ## Table of Contents
 * [Installing Python 3](#installing-python-3)
 * [Installing PyCharm](#installing-pycharm)
+* [Creating github account](#creating-github-account)
 
 ## Installing Python 3
 Choose your operating system and follow the instructions:
 * [Windows](#windows)
 * [Linux](#linux) on an example of Ubuntu
 * [Mac OS X](#mac-os-x)
+* [Chrome OS](#chrome-os)
+* [I can't install Python / Nothing works](#i-cant-install-python)
 
 ### Windows 
 
@@ -69,27 +73,27 @@ sudo apt-get upgrade
 ```
 typing in your password and agreeing when necessary.
 
-Once the process is complete, we can check the version of Python 3 that is installed in the system by typing:
+Once the process is complete, check the version of Python 3 that is installed in the system by typing:
 
 ```
 python3 -V
 ```
 
-You will receive output in the terminal window that will let you know the version number. The version number may vary, but it will look similar to this:
+The output in the terminal window will let you know the version number. The version number may vary, but it will look similar to this:
 
 ```
 Python 3.6.5
 ```
 
-To manage software packages for Python, let’s install pip:
+To manage software packages for Python, install pip:
 
 ```
 sudo apt-get install -y python3-pip
 ```
 
-and you're ready to roll! 
+Congratulations, your Python installation is complete and you're ready to roll! 
 
-Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+Note: pip installs and manages programming packages one may want to use in their development projects. You can install Python packages by typing:
 
 ```
 pip3 install package_name
@@ -121,13 +125,21 @@ pip3 install -U pip3
 ```
 and you're done!
 
-Note: pip installs and manages programming packages we may want to use in our development projects. You can install Python packages by typing:
+Note: pip installs and manages programming packages one may want to use in their development projects. You can install Python packages by typing:
 
 ```
 pip3 install package_name
 ```
 
 Here, `package_name` can refer to any Python package or library, such as Django for web development or NumPy for scientific computing. So if you would like to install NumPy, you can do so with the command `pip3 install numpy`.
+
+### Chrome OS
+
+For instructions please [see this thread on StackExchange](https://unix.stackexchange.com/questions/84160/running-python-on-chromeos). 
+
+### I can't install Python / Nothing works
+
+Another available option is to use a browser-based environment. We recommend [codenvy.com](https://codenvy.com/). It is quick to set up and will allow you to follow along the workshop.
 
 ## Installing PyCharm
 
@@ -150,3 +162,19 @@ If not, follow the instructions in the [Direct download section](#direct-downloa
 If running on Ubuntu or Mac OS check for PyCharm community edition in . If available, it is okay to install it from the store.
 
 From the [download page of PyCharm](https://www.jetbrains.com/pycharm/download/) download the **Community** edition for your OS. Run the installer. 
+
+## Creating Github account
+
+During the workshop we will be making use of git and of Github.
+
+[Git](https://en.wikipedia.org/wiki/Git) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
+
+[Github](http://github.com) is a web-based hosting service for version control using Git. 
+
+To create an account on Github:
+1. Go to [github.com](github.com)
+2. Fill in the form and "Sign up for Github".
+
+
+![Github](images/github.png "Github")
+

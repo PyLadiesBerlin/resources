@@ -4,7 +4,7 @@ TASK 03
 Functions time!
 
 A - Create a function that prints and alert of wrong input (something to
-substitute the answer of the else's).
+substitute the answer of the else).
 B - Use your function where it applies.
 C - Now think a bit, how would you write a dead-function using an argument
 called death_message? Create this function.

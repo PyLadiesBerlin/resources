@@ -3,14 +3,16 @@ TASK 04
 
 Lets use loops and lists!!
 
-A - Create a variable named `friends` and add a list of names that the users friends.
-B. When a user enters some room, print that her friend X is in the room. To use a
-name from the list, eg. friends[0], friends[1] can be used.
+A - Create a list variable named `friends` that contains names of the user friends.
+B. When a user enters some room, print a message saying that her 2nd friend in the
+list is in the room.
+Remember:
+Access list elements like this, eg. friends[0], friends[1]
 C. Make this name to be chosen randomly. Import Python library random, that has functions to help
 with random numbers and use random.randint(a, b) function to give you a random number between a and b. eg.
 random.randint(1,4) will give a random number among 1, 2, 3, 4
-D - Extend your death function telling the user that is failing from high: Eg. print
-"You are failing for..."
+D - Extend your death function (from functions task before) telling the user that is falling from high: Eg. print
+"You are falling for..."
  1
  2
  3
@@ -19,8 +21,8 @@ D - Extend your death function telling the user that is failing from high: Eg. p
  ... meters! You are dead".
 Try to print all the numbers up to 30 or 50 with a for loop using range function, eg. range(30) will return
 some kind of list with numbers from 0-29
-E - Add a delay between the failing with time.sleep(secs), Eg. time.sleep(1) will pause the program for 1 sec. Remember to add
-import time in the beginning of the code.
+E - Add a delay between the falling with time.sleep(secs), Eg. time.sleep(1) will pause the program for 1 sec. Remember to add
+import for time library typing `import time` in the beginning of the code.
 '''
 # Exercise C the import goes here
 

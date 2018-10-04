@@ -1,63 +1,40 @@
-# PyLadiesWorkshop
+# PyLadies event
 
 Meetup Page:   
 [https://www.meetup.com/de-DE/PyLadies-Berlin/events/243202510/](https://www.meetup.com/de-DE/PyLadies-Berlin/events/243202510/)
 
-Blogpost with further Explanations:   
+# Blogpost
 [http://danke.fish/how-to-organise-a-python-beginners-workshop/](http://danke.fish/how-to-organise-a-python-beginners-workshop/)
 
 
-## Links for Installation Party:
+## Workshop
 
-See main article: [Installation Party](manual/installation_party.md).
+[https://github.com/PyLadiesBerlin/python-beginners-workshop](https://github.com/PyLadiesBerlin/python-beginners-workshop)
 
-## Recommended Learning Materials:
 
-1. CODECADEMY: https://www.codecademy.com/
-Here you find these courses relevant to your skills: Python. Command Line. Git.
-Command Line and Git will take you only 1 day in total to learn.
+## Notes from previous workshops
 
-2. Django Tutorial
-You can do the Django Tutorial and learn here how the Backend works. Django is a a bunch of libraries that enable to run a web app in the backend. Of course, you learn also about how to display things with HTML templates here. You can go through this tutorial in 1 weekend and see if you like Backend or Frontend.
-https://tutorial.djangogirls.org/en/
+This workshop was done twice so far. Initial workshop by Marie and Ines ([initial material](slides)) Some comments to take into account for future workshops:
+* In the first case there was an evening for installation that included setup of github, git and github Desktop.
+  [Installation party](slides/InstallationParty.pdf). Terms like repository and commit, etc where explained in that session and again in the workshop.
+* In the 2nd, there was no installation party but the attendees had to install beforehand Python, Pycharm, Git and have a Github account. 
+  The process to commit and the terms repository etc where introduced directly in the workshop and the attendees had to commit and push manually. Much more time and effort would be needed to properly get this working.
+* In the first case the tasks where explained in detail by the tutor first, only 12 attendees and it worked pretty well.
+In the 2nd the idea was to have the exercises self explained so each person could make them in their own pace. It proved to 
+be pretty hard to make them very clear.  
+  
+### Lessons learned
 
-3. If you have nothing to do but cannot install your Python, you can use this tool instead:
-https://repl.it/languages/python3
-
-## Meetups & Community
-
-1. PyLadies https://www.meetup.com/PyLadies-Berlin/
-- very beginner friendly Python meetup for women & their friends, some times the talks are more advanced, but begineers can always get something.
-
-2. Open Tech School, Python co-learning
-https://www.meetup.com/opentechschool-berlin/?chapter_analytics_code=UA-33344154-1
-They organize a Python co-learning meetup every 2. week on Mondays. People are very friendly and they are many coaches.
-
-3. Open Tech School, Data science co-learning (mainly in Python)
-https://www.meetup.com/opentechschool-berlin/?chapter_analytics_code=UA-33344154-1
-They organize a Data science co-learning meetup every 2. week on Thursdays, mainly in Python. People are very friendly and they are many coaches.
-
-4. Women Who Code nights
-These women rock! They do 3 talks in one evening and you can get an overview 
-what you can create with your programming skills. It is beginner friendly and women want to get to know each other. It does not matter which programming language they use. It feels like real conference to go there. 
-The meetup is 1x month. https://www.meetup.com/Women-Who-Code-Berlin-Germany/
-
-5. Women Who Code - hack nights
-Another great opportunity to focus on learning and/or developing your project. Women
-of all different programming languages get together and work on their programming projects!
-
-6. DjangoGirls
-In Berlin organized 1x or 2x per year. You have to apply in advance. This tutorial/full day workshop teaches you the basic of python web development with Django. Check the Django Girls website for more details regularly. As mentioned above you can go through the materials yourself as well https://tutorial.djangogirls.org/.
-
-7. Rails Girls Summer of Code
-Self-organized sponsored program for women interesting in trying a programmer job. Start with the application process very soon - the best is to start in January in order to create your team!!! :) https://railsgirlssummerofcode.org/
-
-8. Women Techmakers
-Sponsored by Google. Having interested talks and learning meetups for other technologies.
-
-9. Heart of Code
-Women hack space. Bi-weekly python co-learning meetup. German and English speaking.
-Make sure to contact them before going for the first time as their space is under ongoing maintenance.
-
-10. Open Source Diversity
-Open source welcomes beginners. Join them to contribute to open source projects. You can choose a python one!
+* Either git and github has to be skipped from the workshop or use a separate setup session 
+  and consider a GUI interface, for commit and push. Show graphically a commit to make its
+  value visible.
+* Installation can better work in small groups and needs many coaches. Maybe better to ask participants to pre-install
+  python and oter tools and then do a pre-workshop session for git and test environments and fix issues.
+* For the tasks, the instructions have to be very clearly written (will be revised soon) and they seems best to
+ be explained by the tutor as well.
+* Space has to be well aired and it is advised to have full break where participaents go outside and walk.
+* Doing the workshop with many people is challenging microphone might be needed and should be properly tested 
+  and also prepare for big big fonts in the IDE/console.
+* Many friendly and floating coaches made it possible to scale the workshop to many participants 40+, with 
+  really great results!
+  

@@ -7,6 +7,47 @@ Here is a selection of useful resources as well as slides, exercises and materia
 [Automate the boring stuff](https://automatetheboringstuff.com/) *(beginner friendly)*
 [PyBites](https://pybit.es/pages//challenges.html) *(train your skills)*
 [CodeWars](https://www.codewars.com/dashboard) *(train your skills)*
+ 
+## Workshops/Tutorials
+### Beginners
+#### Learn Python
+* (Book) Online Free Book Python 3, learn from scratch step by step - https://python.swaroopch.com/first_steps.html
+* (Tutorial) Learn basic python with drawing with turtle python module - http://opentechschool.github.io/python-beginners/
+* (Book/Tutorial) Compact Python learning - suitable for experienced with other languages - https://www.afterhoursprogramming.com/tutorial/python/python-overview/
+
+#### Practice Python
+* Build a text adventure - Exercises with solutions (practice if, else, for logic) https://github.com/PyLadiesBerlin/python-beginners-workshop/blob/master/tasks/README.rst
+* Practice pythonic code with solutions in small exercises (git used to submit exercises)  https://exercism.io/
+
+### Git
+* Git tutorial (good to know first a bit what git is) - https://www.codecademy.com/learn/learn-git
+* Command line tutorial - https://www.codecademy.com/learn/learn-the-command-line
+
+### Intermediate/Advanced
+
+### Python core
+* Python intermediate advanced/concepts - http://book.pythontips.com/en/latest/index.html
+
+### Web related
+- Flask - http://opentechschool.github.io/python-flask/
+- Django - https://tutorial.djangogirls.org/en/
+- Fastapi, new async web framework - suitable for experienced web developers - https://fastapi.tiangolo.com/tutorial
+
+### Data related
+- First experience with data, jupyter, csv etc. tutorial - http://opentechschool.github.io/python-data-intro/
+- Very brief numpy and pandas basics tutorial - https://www.learnpython.org/
+- Pandas dataframe detailed tutorial (with video) https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+
+More deep data resources (opentechschool - [datascience learning recommendations] (https://github.com/ellenkoenig/datascience-co-learning#python))
+- Pandas complete tutorial - https://bitbucket.org/hrojas/learn-pandas
+- StatsModels Tutorial - https://github.com/jseabold/statsmodels-tutorial 
+
+### GUI
+- Build pretty GUIs with python - workshop with solutions - https://github.com/cmaureir/qtforpython_workshop
+
+### Other topics / Challenges
+- http://automatetheboringstuff.com/#toc
+- https://pybit.es/pages//challenges.html
 
 ## 👩‍💻Other Berlin based Meetups
 [Open Tech School Python Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly)*

@@ -8,7 +8,7 @@ Here is a selection of useful resources as well as slides, exercises and materia
 [PyBites](https://pybit.es/pages//challenges.html) *(train your skills)*
 [CodeWars](https://www.codewars.com/dashboard) *(train your skills)*
  
-## Workshops/Tutorials
+## 👩‍💻 /  👨‍💻 Workshops/Tutorials
 ### Beginners
 #### Learn Python
 * (Book) Online Free Book Python 3, learn from scratch step by step - https://python.swaroopch.com/first_steps.html

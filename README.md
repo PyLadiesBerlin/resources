@@ -42,6 +42,8 @@ More deep data resources (opentechschool - [datascience learning recommendations
 - Pandas complete tutorial - https://bitbucket.org/hrojas/learn-pandas
 - StatsModels Tutorial - https://github.com/jseabold/statsmodels-tutorial 
 
+Transfer learning for computer vision - [https://github.com/ividal/TransferLearning/blob/master/README.md](https://github.com/ividal/TransferLearning/blob/master/README.md)
+
 ### GUI
 - Build pretty GUIs with python - workshop with solutions - https://github.com/cmaureir/qtforpython_workshop
 

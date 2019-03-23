@@ -10,12 +10,12 @@ Then you will be able to login using this link:
 You just need to install it!
 
 This process will depend in your system:
-* `Windows`: Download the installer from [here](https://www.python.org/downloads/).
+* `Windows`:
+  * Download the installer from [here](https://www.python.org/downloads/).
 * `macOS`:
- * Download the installer from [here](https://www.python.org/downloads/).
- * You also can use [brew](https://brew.sh/) to [install it](https://docs.brew.sh/Homebrew-and-Python)
-* `Linux`:
- * Use your package manager:
+  * Download the installer from [here](https://www.python.org/downloads/).
+  * You also can use [brew](https://brew.sh/) to [install it](https://docs.brew.sh/Homebrew-and-Python)
+* `Linux`: Use your package manager:
   * Ubuntu: `sudo apt-get install python3`
   * Fedora: `sudo dnf install python3`
   * Arch linux: `sudo pacman -S python`
@@ -46,10 +46,12 @@ just a few:
    (Comes with [Visual Studio Code](https://code.visualstudio.com/))
    but you can install it without if you want.
  * Git Bash: Comes when you install [Git on Windows](https://git-scm.com/download/win)
+
 **macOS**:
  * Terminal: The normal terminal that comes with macOS.
  * iTerm2: It's an [improved terminal for macOS](https://iterm2.com/),
    including features like splitting windows, search, autocomplete, etc.
+
 **Linux**:
  * Any will work almost the same, so don't worry much about it.
 

@@ -50,6 +50,7 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 ### Other topics / Challenges
 - http://automatetheboringstuff.com/#toc
 - https://pybit.es/pages//challenges.html
+- Concurrent Futures workshop (Parallel programming in Python) [https://github.com/teoguso/concurrent-futures-tutorial](https://github.com/teoguso/concurrent-futures-tutorial)
 
 ## 👩‍💻Other Berlin based Meetups
 [Open Tech School Python Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly)*

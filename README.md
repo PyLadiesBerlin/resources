@@ -53,12 +53,13 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - Concurrent Futures workshop (Parallel programming in Python) [https://github.com/teoguso/concurrent-futures-tutorial](https://github.com/teoguso/concurrent-futures-tutorial)
 
 ## 👩‍💻Other Berlin based Meetups
-[Open Tech School Python Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly)*
-[Heart of Code](http://heartofcode.org/) *(beginner friendly)*
-[PyData Berlin](https://www.meetup.com/PyData-Berlin/)
-[Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning)*
-[Django Girls Berlin](https://djangogirls.org/berlin/) *(yearly workshops)*
-[Open Source diversity](https://opensourcediversity.org/#) *(Get started with contributing to Open Source projects)*
+- [Open Tech School Python Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly, python for web aps)*
+- [Open Tech School Data Science Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly, python for data science)*
+- [Heart of Code](http://heartofcode.org/) *(beginner friendly)*
+- [PyData Berlin](https://www.meetup.com/PyData-Berlin/)
+- [Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning)*
+- [Django Girls Berlin](https://djangogirls.org/berlin/) *(yearly workshops)*
+- [Open Source diversity](https://opensourcediversity.org/#) *(Get started with contributing to Open Source projects)*
 
 ## 💾 Slides, exercises and materials from past workshops 
 

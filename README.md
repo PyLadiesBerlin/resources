@@ -86,6 +86,15 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - 21 [MicroPython IoT workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/21_Micro_Python_IoT_Workshop)
 - 22 [Hardware Hackevening Resources](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/22_Hardware_hack_evening)
 
+## Public speaking - Call for Proposals - CFP
+Brilliant talks about public speaking in conferences.
+
+ - [CFP Advice (what to talk about and how)](https://www.youtube.com/watch?v=lHIHgauh000)
+ - [Crafting your Bio](https://www.youtube.com/watch?v=GPPnvXlVj7w)
+ - [Your perfect tech talk Prepare a talk to be remembered!!](https://www.youtube.com/watch?v=AzVr_nsKoZs)
+ - [The art of slide design](https://www.youtube.com/watch?v=e5gwEvQah-s)
+ - [The day of your talk Checklist of everything to prepare so nothing can go wrong.](https://www.youtube.com/watch?v=m2j6-pjfvuo)
+
 
 ## 🐛 Issues or suggestions
 

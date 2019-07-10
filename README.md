@@ -85,6 +85,7 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - 20 [Python beginners workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/20_python_beginners_workshop)
 - 21 [MicroPython IoT workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/21_Micro_Python_IoT_Workshop)
 - 22 [Hardware Hackevening Resources](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/22_Hardware_hack_evening)
+- 23 [Data Wrangling with Pandas](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/23_Data_Wrangling_Pandas)
 
 ## Public speaking - Call for Proposals - CFP
 Brilliant talks about public speaking in conferences.

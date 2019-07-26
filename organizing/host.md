@@ -15,13 +15,13 @@ Requirements from hosting companies:
  * food and drinks (if possible)
 
 Code of Conduct:
-Every person involved in our events should comply to the Code of Conduct.
+Every person involved in our events should comply with our Code of Conduct.
 https://www.pyladies.com/CodeOfConduct/
 
 Job Postings:
 We have a slack channel for job posts you can join our slack here: https://pyladies-berlin.herokuapp.com/
 
-Company speaker:
+Company speaker(s):
 We normally reserve 5-10 minutes slot after our introduction for a host presentation. In any case please forward the code of conduct to speakers involved and also some tips for the presentation:
    - Audience level may vary significantly.
    - Assume no prior knowledge but infinite intelligence.

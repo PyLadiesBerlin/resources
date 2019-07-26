@@ -3,4 +3,4 @@ Pyladies Berlin organising resources
 
 Communication templates
 
-- [Host initial email](host.md).
+- Get [Host initial email](host.md) copy it and use as is and add additional info for the specific dates or event content separately.

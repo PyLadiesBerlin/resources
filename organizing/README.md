@@ -14,7 +14,7 @@ https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/
 
 ## Guides
 
-- [Speaker guide](spaker-guide.md)
+- [Speaker guide](spakers-guide.md)
 - [Coaching guide](https://opentechschool.github.io/slides/presentations/coaching/), We are using the Open Tech school guidelines for coaches to have a friendly and open environment.
 
  ## Communication templates

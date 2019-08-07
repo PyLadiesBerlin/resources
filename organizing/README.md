@@ -69,12 +69,23 @@ https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/
 
 - [Speaker guide](speakers-guide.md)
 - [Coaching guide](https://opentechschool.github.io/slides/presentations/coaching/), We are using the Open Tech school guidelines for coaches to have a friendly and open environment.
-- [Coaching guide - Django girls](https://coach.djangogirls.org/tips/)
+- [Coaching guide - Django girls](https://coach.djangogirls.org/tips/), similar guide
 
  ## Communication templates
 
 - Get [Host initial email](host.md) copy it and use as is and add additional info for the specific dates or event content separately.
 - TODO with speakers - https://docs.google.com/document/d/1BOlcsb-6TwcyC-GvXOQKbxCmg5HisKjqXxAhXmozfCg/edit#
 - TODO with companies that want to post jobs - https://docs.google.com/document/d/1c1MNvnFNkSt6eDeTXy7SRVqKr2Ta6B-9Kfb40EKD5hA/edit        
+
+## Articles
+
+Great articles to point in order to raise awareness.
+- [Women in tech Germany](http://blog.honeypot.io/women-in-tech-germany/)
+- [Women in tech negative experiences](https://bdtechtalks.com/2019/03/21/sustaining-women-in-technology-stem/)
+- [Writing effective and inclusive job descriptions](https://medium.com/@meb_57007/writing-effective-and-inclusive-job-descriptions-ace2a302f30a)
+- [Stop calling women females](https://www.buzzfeed.com/tracyclayton/stop-calling-women-females?utm_term=.ba9GR6nEx4&source=post_page---------------------------#.tfJvEZzlPb)
+- [Why women leave tech](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.2xw2y2f1s)
+
+
 
 

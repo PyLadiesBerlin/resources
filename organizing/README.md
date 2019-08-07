@@ -1,6 +1,11 @@
 # Pyladies Berlin organising resources
 
 
+## Resources
+
+Workshop materials are in the top directory of the repository.
+
+
 ## Event organizing
 
 ### Finding host

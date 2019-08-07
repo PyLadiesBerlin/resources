@@ -4,10 +4,10 @@
 ## Event organizing
 
 ### Finding host
-We have many hosts reaching out to us in the email. We are contacting them 2-3 months before to book the date. We also have a list of past hosts in Trello when we need to ask explicitely. Reach out to them with the [Host initial email](host.md).
+We have many hosts reaching out to us in the email. We are contacting them 2-3 months before to book the date. We also have a list of past hosts in Trello when we need to ask explicitly. Reach out to them with the [Host initial email](host.md).
 
 ### Finding speakers
-We usually ask women in person to give talks and also have some that reach out to us directly. Check with Trello if we have potential speakers or check with other organizers if there were some unrecorded discussions.
+We usually ask women in person to give talks and also have some that reach out to us by email. Check with Trello if we have potential speakers or check with other organizers if there were some unrecorded discussions.
 
 ### Announce event (One month before)
 When host and speakers are found, or even if still some are pending, it is time to announce the event.

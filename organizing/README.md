@@ -75,8 +75,9 @@ https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/
 
  ## :memo: Communication templates
 
-- Get [Host initial email](host.md), copy it and use as is or add additional info for the specific dates or event content separately.
-- TODO with speakers - https://docs.google.com/document/d/1BOlcsb-6TwcyC-GvXOQKbxCmg5HisKjqXxAhXmozfCg/edit#
+- Here, you can get our email templates, copy them, use them as they are or add additional info for the specific dates or event content separately.
+- [Host initial email](host.md)
+- [Email to speakers](speakers-emails.md)
 - TODO with companies that want to post jobs - https://docs.google.com/document/d/1c1MNvnFNkSt6eDeTXy7SRVqKr2Ta6B-9Kfb40EKD5hA/edit        
 
 ## :newspaper: Articles

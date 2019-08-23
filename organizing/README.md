@@ -78,7 +78,7 @@ https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/
 - Here, you can get our email templates, copy them, use them as they are or add additional info for the specific dates or event content separately.
 - [Host initial email](host.md)
 - [Email to speakers](speakers-emails.md)
-- [Email to companies that want to post jobs](email-to-job-advertisers.md)   
+- [Email to companies that want to post jobs](email-for-job-advertisers.md)   
 
 ## :newspaper: Articles
 

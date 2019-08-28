@@ -37,7 +37,7 @@ When host and speakers are found, or even if still some are pending, it is time 
 - [ ] Prepare introduction slides [past example](https://docs.google.com/presentation/d/15ou4tBs845m10InGNDslNn5cYWlH-CHxDrlFF4kesNE/edit?usp=sharing)
 - [ ] Tweet about it (or ask Jessica to tweet about it)
 
-### :white_check_mark: Event:
+### :white_check_mark: Event
 
 Arrive 30-60 mins before and prepare the event.
 
@@ -46,7 +46,7 @@ Arrive 30-60 mins before and prepare the event.
 - [ ] Stick PyLadies signs to easy access the location
 - [ ] Do reception, give name tags if available
 
-During
+### :white_check_mark: During
 
 - [ ] Do introduction and Community announcements
 - [ ] Take photos of all the speakers and audience

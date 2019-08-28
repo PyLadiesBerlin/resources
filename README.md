@@ -3,10 +3,11 @@
 Here is a selection of useful resources as well as slides, exercises and materials from our workshops.
 
 ## :computer: Websites for learning
-[Code Academy ~ Python track](https://www.codecademy.com/catalog/language/python) *(beginner friendly)*
-[Automate the boring stuff](https://automatetheboringstuff.com/) *(beginner friendly)*
-[PyBites](https://pybit.es/pages//challenges.html) *(train your skills)*
-[CodeWars](https://www.codewars.com/dashboard) *(train your skills)*
+* [Overview of free STEM classes](https://www.thesimpledollar.com/stem-free-computer-science-classes/)
+* [Code Academy ~ Python track](https://www.codecademy.com/catalog/language/python) *(beginner friendly)*
+* [Automate the boring stuff](https://automatetheboringstuff.com/) *(beginner friendly)*
+* [PyBites](https://pybit.es/pages//challenges.html) *(train your skills)*
+* [CodeWars](https://www.codewars.com/dashboard) *(train your skills)*
  
 ## 👩‍💻 /  👨‍💻 Workshops/Tutorials
 ### Beginners

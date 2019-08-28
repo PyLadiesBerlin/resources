@@ -99,7 +99,7 @@ Brilliant talks about public speaking in conferences.
  
 ## Organizing resources
 
-- [Organizing resources](organizing)
+Everything related with Pyladies Berlin chapter [organizing](organizing).
 
 
 ## 🐛 Issues or suggestions

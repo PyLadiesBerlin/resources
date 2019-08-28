@@ -88,7 +88,7 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - 22 [Hardware Hackevening Resources](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/22_Hardware_hack_evening)
 - 23 [Data Wrangling with Pandas](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/23_Data_Wrangling_Pandas)
 
-## Public speaking - Call for Proposals - CFP
+## :microphone: Public speaking - Call for Proposals - CFP
 Brilliant talks about public speaking in conferences.
 
  - [CFP Advice (what to talk about and how)](https://www.youtube.com/watch?v=lHIHgauh000)
@@ -97,7 +97,7 @@ Brilliant talks about public speaking in conferences.
  - [The art of slide design](https://www.youtube.com/watch?v=e5gwEvQah-s)
  - [The day of your talk Checklist of everything to prepare so nothing can go wrong.](https://www.youtube.com/watch?v=m2j6-pjfvuo)
  
-## Organizing resources
+## :clipboard: Organizing resources
 
 Everything related with Pyladies Berlin chapter [organizing](organizing).
 

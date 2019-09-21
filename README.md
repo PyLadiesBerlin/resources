@@ -8,7 +8,7 @@ Here is a selection of useful resources as well as slides, exercises and materia
 * [Automate the boring stuff](https://automatetheboringstuff.com/) *(beginner friendly)*
 * [PyBites](https://pybit.es/pages//challenges.html) *(train your skills)*
 * [CodeWars](https://www.codewars.com/dashboard) *(train your skills)*
- 
+
 ## 👩‍💻 /  👨‍💻 Workshops/Tutorials
 ### Beginners
 #### Learn Python
@@ -41,7 +41,7 @@ Here is a selection of useful resources as well as slides, exercises and materia
 
 More deep data resources (opentechschool - [datascience learning recommendations] (https://github.com/ellenkoenig/datascience-co-learning#python))
 - Pandas complete tutorial - https://bitbucket.org/hrojas/learn-pandas
-- StatsModels Tutorial - https://github.com/jseabold/statsmodels-tutorial 
+- StatsModels Tutorial - https://github.com/jseabold/statsmodels-tutorial
 
 Transfer learning for computer vision - [https://github.com/ividal/TransferLearning/blob/master/README.md](https://github.com/ividal/TransferLearning/blob/master/README.md)
 
@@ -61,6 +61,10 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - [Coders Club](https://www.facebook.com/groups/1968788209862149/?multi_permalinks=2151482021592766&notif_id=1535578255867282&notif_t=group_activity) *(weekly co-learning)*
 - [Django Girls Berlin](https://djangogirls.org/berlin/) *(yearly workshops)*
 - [Open Source diversity](https://opensourcediversity.org/#) *(Get started with contributing to Open Source projects)*
+
+## 👩‍💻 Initiatives to teach IT skills to women (distance learning)
+- Learn IT, Girl! (https://www.learnitgirl.com) *(mentoring scheme over 12 weeks, beginner friendly, requires an application)*
+- Python Study Group organized by the Anita B.Org community (https://anitab.org) *(beginner friendly, requires an application, follows this (free) Python course https://www.udemy.com/share/101r6uAkAedVpURHg=/)*
 
 ## 💾 Slides, exercises and materials from past workshops 
 
@@ -96,7 +100,7 @@ Brilliant talks about public speaking in conferences.
  - [Your perfect tech talk Prepare a talk to be remembered!!](https://www.youtube.com/watch?v=AzVr_nsKoZs)
  - [The art of slide design](https://www.youtube.com/watch?v=e5gwEvQah-s)
  - [The day of your talk Checklist of everything to prepare so nothing can go wrong.](https://www.youtube.com/watch?v=m2j6-pjfvuo)
- 
+
 ## :clipboard: Organizing resources
 
 Everything related with Pyladies Berlin chapter [organizing](organizing).
@@ -107,7 +111,7 @@ Everything related with Pyladies Berlin chapter [organizing](organizing).
 If you found an issue on the page or only have a quick suggestion (for example a resource to add), please open a new issue in [our issue list](https://github.com/PyLadiesBerlin/resources/issues). Thank you! 👍
 
 
-### :smiley: :trophy: Addding resources yourself
+### :smiley: :trophy: Adding resources yourself
 
 - You can clone this repository and add resources (ie workshop material) if you do so :heart_eyes:, please submit a Pull
 Request.
@@ -122,4 +126,3 @@ You can reach us either through [email](berlinpyladies@gmail.com) or on our [sla
 ## :v: Code of conduct
 
 The PyLadies community has a code of conduct that are shared between all our members and apply at our Meetups as well as on our online platforms, please respect [our shared values](http://www.pyladies.com/CodeOfConduct/). :relieved:
-

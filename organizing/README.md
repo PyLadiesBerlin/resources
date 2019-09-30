@@ -127,6 +127,6 @@ Great articles to point in order to raise awareness.
  Email: berlinpyladies@mail.com
  Twitter: @pyladiesber
  Slack: https://pyladies-berlin.herokuapp.com/
- Instagram:
- Facebook: 
- LinkedIn: 
+ Instagram: https://www.instagram.com/pyladiesberlin/
+ Facebook: https://www.facebook.com/PyLadiesBerlin/
+ LinkedIn: https://www.linkedin.com/groups/8769736

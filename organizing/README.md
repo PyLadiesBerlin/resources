@@ -89,6 +89,36 @@ Great articles to point in order to raise awareness.
 - [Stop calling women females](https://www.buzzfeed.com/tracyclayton/stop-calling-women-females?utm_term=.ba9GR6nEx4&source=post_page---------------------------#.tfJvEZzlPb)
 - [Why women leave tech](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.2xw2y2f1s)
 
+## ❓ Conference FAQ
 
+### What do pyladies Berlin do?
+  * Montly meetups with talks and workshops. 
+  * Speaker support program (brainstorming, CFP support, feedback in slides, notes, rehearsh talks)
+  * New location every time, ideally in Python using companies, so we can learn about what they do with it, in the short intro the host have.
+  * Full day workshops (beginners, intermediate)
+  * Setup events (for beginners to get everything setup and talk about what the various tools are for)
+  
+  Check also http://berlin.pyladies.com/
+ 
+ ### How can I support pyladies?
+   * Raise awareness in your workplace and community (check [related articles](#newspaper-articles) )
+   * Offer a location (send an email to berlinpyladies@gmail.com)
+   * Subscribe as a coach in our events (check pinned tweet https://twitter.com/pyladiesber)
+   * Offer location for a full day event (Saturday)
+   
+  ### What are the location requirements?
+   * Time 19:00 - 22:00 or 10:00 - 18:00 for full day events
+   * 40 attendees simple seating or with tables, power and internet for workshops
+    
+  ### How can I present sth?
+   Send an email to berlinpyladies@mail.com or write in slack in one of the organizers. 
+    
+  ### What can I present in the meetup?
+   Anything python related. Some things requested from atendees are: 
+   (pandas, clean code, psycopg, skit-learn, data visualization, machine learning, speech recognition)
+   
+  ### What is the level of the attendees?
+   Attendees level may vary from total begineer to professionals. We want occassionally to have events aimed exclusively for beginners. Though we are also fine with more advanced topics as long as it is presented considering zero knowledge. So that total begineers can still understand partly.
 
-
+  ### How can I hire pyladies?
+   Check our [email to companies that want to post jobs](email-for-job-advertisers.md)   

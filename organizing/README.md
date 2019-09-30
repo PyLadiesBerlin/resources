@@ -102,8 +102,8 @@ Great articles to point in order to raise awareness.
 
  ### How can I support pyladies?
    * Raise awareness in your workplace and community (check [related articles](#newspaper-articles) )
-   * Offer a location (send an email to berlinpyladies@gmail.com)
-   * Subscribe as a coach in our events (check pinned tweet https://twitter.com/pyladiesber)
+   * Offer a location (send us an email)
+   * Subscribe as a coach in our events (check the pinned tweet in our account)
    * Offer location for a full day event (Saturday)
    
   ### What are the location requirements?
@@ -111,7 +111,7 @@ Great articles to point in order to raise awareness.
    * 40 attendees simple seating or with tables, power and internet for workshops
     
   ### How can I present something?
-   Send an email to berlinpyladies@mail.com or write in slack in one of the organizers. 
+   Send us an email or write in slack in one of the organizers. 
     
   ### What can I present in the meetup?
    Anything python related. Some things requested from atendees are: 
@@ -124,7 +124,7 @@ Great articles to point in order to raise awareness.
    Check our [email to companies that want to post jobs](email-for-job-advertisers.md)   
 
  ### How to contanct you
- Email: berlinpyladies@mail.com
+ Email: berlinpyladies@gmail.com
  Twitter: @pyladiesber
  Slack: https://pyladies-berlin.herokuapp.com/
  Instagram: https://www.instagram.com/pyladiesberlin/

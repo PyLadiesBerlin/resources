@@ -94,12 +94,12 @@ Great articles to point in order to raise awareness.
 ### What do pyladies Berlin do?
   * Montly meetups with talks and workshops. 
   * Speaker support program (brainstorming, CFP support, feedback in slides, notes, rehearsh talks)
-  * New location every time, ideally in Python using companies, so we can learn about what they do with it, in the short intro the host have.
+  * New location every time, ideally in companies using Python, so we can learn about what they do with it, in the short intro the host have.
   * Full day workshops (beginners, intermediate)
   * Setup events (for beginners to get everything setup and talk about what the various tools are for)
   
   Check also http://berlin.pyladies.com/
- 
+
  ### How can I support pyladies?
    * Raise awareness in your workplace and community (check [related articles](#newspaper-articles) )
    * Offer a location (send an email to berlinpyladies@gmail.com)
@@ -110,7 +110,7 @@ Great articles to point in order to raise awareness.
    * Time 19:00 - 22:00 or 10:00 - 18:00 for full day events
    * 40 attendees simple seating or with tables, power and internet for workshops
     
-  ### How can I present sth?
+  ### How can I present something?
    Send an email to berlinpyladies@mail.com or write in slack in one of the organizers. 
     
   ### What can I present in the meetup?
@@ -122,3 +122,11 @@ Great articles to point in order to raise awareness.
 
   ### How can I hire pyladies?
    Check our [email to companies that want to post jobs](email-for-job-advertisers.md)   
+
+ ### How to contanct you
+ Email: berlinpyladies@mail.com
+ Twitter: @pyladiesber
+ Slack: https://pyladies-berlin.herokuapp.com/
+ Instagram:
+ Facebook: 
+ LinkedIn: 

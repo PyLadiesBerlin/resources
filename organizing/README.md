@@ -117,8 +117,8 @@ Great articles to point in order to raise awareness.
    Send us an email or write in slack to one of the organizers. 
     
   ### What can I present in the meetup?
-   Anything python related. Some topics requested from atendees are: 
-   (pandas, clean code, psycopg, skit-learn, data visualization, machine learning, speech recognition)
+   Anything python related. Some topics requested from attendees are:
+   pandas, clean code, psycopg, skit-learn, data visualization, machine learning, speech recognition.
    
   ### What is the level of the attendees?
    Attendees level may vary from total begineer to professionals. We occassionally have events aimed exclusively for beginners. Though we also welcome more advanced topics as long as it is presented considering zero knowledge. So that total begineers can still understand partly.
@@ -128,8 +128,13 @@ Great articles to point in order to raise awareness.
 
  ### How to contanct you
  Email: berlinpyladies@gmail.com
+ 
  Twitter: @pyladiesber
+ 
  Slack: https://pyladies-berlin.herokuapp.com/
+ 
  Instagram: https://www.instagram.com/pyladiesberlin/
+ 
  Facebook: https://www.facebook.com/PyLadiesBerlin/
+ 
  LinkedIn: https://www.linkedin.com/groups/8769736

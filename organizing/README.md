@@ -127,7 +127,7 @@ Great articles to point in order to raise awareness.
    Check our [email to companies that want to post jobs](email-for-job-advertisers.md)   
 
  ### How to contanct you
- Email: berlinpyladies@gmail.com
+ Email: berlin@pyladies.com
  
  Twitter: @pyladiesber
  

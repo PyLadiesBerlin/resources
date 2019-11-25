@@ -14,7 +14,7 @@ Here is a selection of useful resources as well as slides, exercises and materia
 #### Learn Python
 * (Book) Online Free Book Python 3, learn from scratch step by step - https://python.swaroopch.com/first_steps.html
 * (Tutorial) Learn basic python with drawing with turtle python module - http://opentechschool.github.io/python-beginners/
-* (Book/Tutorial) Compact Python learning - suitable for experienced with other languages - https://www.afterhoursprogramming.com/tutorial/python/python-overview/
+* (Learning options index) Up to date list of learning resources - https://python-guide.readthedocs.io/en/latest/intro/learning/
 
 #### Practice Python
 * Build a text adventure - Exercises with solutions (practice if, else, for logic) https://github.com/PyLadiesBerlin/python-beginners-workshop/blob/master/tasks/README.rst

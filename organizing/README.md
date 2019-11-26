@@ -61,7 +61,7 @@ Arrive 30-60 mins before and prepare the event.
 - [ ] Tweet about it with photos (if not during the event)
 
 
-## :mailbox: Email account management -  berlinpyladies@gmail.com
+## :mailbox: Email account management -  berlin@pyladies.com
 This document describes how we handle incoming emails in the account
 TODO move this here
 https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/edit

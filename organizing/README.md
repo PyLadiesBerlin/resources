@@ -32,7 +32,7 @@ When host and speakers are found, or even if still some are pending, it is time 
 
 - [ ] Double check with host: microphone (if needed), soft drinks, power plugs, internet
 - [ ] Ask host if attendees list is needed, special location directions
-- [ ] Send to host to print [PyLadies arrow signs](https://docs.google.com/document/d/1tqqTkM0PizhBI5ndEkZtTf3AjWs-TAXqtP37vgz3Eyc/edit#heading=h.25n50hi4kfcc)
+- [ ] Send to host to print [PyLadies arrow signs](https://docs.google.com/presentation/d/1_SNnpaWBK3I74e4TWW4wudf6JMGBSYaq_90W2BiCiEk/edit?usp=sharing)
 - [ ] Print [feedback forms](https://docs.google.com/document/d/1mYdS9KvE75-OFBZ3dcgpQtw6L6qbUNkTJBX40ei-PL0/edit)
 - [ ] Prepare introduction slides [past example](https://docs.google.com/presentation/d/15ou4tBs845m10InGNDslNn5cYWlH-CHxDrlFF4kesNE/edit?usp=sharing)
 - [ ] Tweet about it (or ask Jessica to tweet about it)

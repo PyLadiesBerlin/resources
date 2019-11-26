@@ -63,8 +63,8 @@ Arrive 30-60 mins before and prepare the event.
 
 ## :mailbox: Email account management -  berlin@pyladies.com
 This document describes how we handle incoming emails in the account
-TODO move this here
-https://docs.google.com/document/d/1BoC-0RS8v9grrZMm3G9vLaSGTtCnMrRenSro3w71GVA/edit
+TODO Revise and move this here
+https://docs.google.com/document/d/1NQvjiANENR7ll7eOLTxyqrnFy4s0kG7ANZzAmuckIjE/edit?usp=sharing
 
 
 ## :books: Guides

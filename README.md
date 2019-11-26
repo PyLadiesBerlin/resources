@@ -56,7 +56,7 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 ## Books
 - [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
 - [Think python 2e](https://greenteapress.com/wp/think-python-2e/)
-- [Python Practice Book] (https://anandology.com/python-practice-book/index.html)
+- [Python Practice Book](https://anandology.com/python-practice-book/index.html)
 
 ## 👩‍💻Other Berlin based Meetups
 - [Open Tech School Python Co-Learning](https://www.meetup.com/opentechschool-berlin/) *(beginner friendly, python for web aps)*

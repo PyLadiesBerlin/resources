@@ -125,6 +125,9 @@ Great articles to point in order to raise awareness.
 
   ### How can I hire PyLadies?
    Check our [email to companies that want to post jobs](email-for-job-advertisers.md)   
+   
+ ### Where are PyLadies Berlin logos?
+ [Logos](https://drive.google.com/drive/folders/1dV2Ezol4Ikf3J2a1TtZ8hfrLrhl2rOY5?usp=sharing)
 
  ### How to contanct you
  Email: berlin@pyladies.com

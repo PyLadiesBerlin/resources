@@ -105,6 +105,13 @@ Brilliant talks about public speaking in conferences.
  - [Your perfect tech talk Prepare a talk to be remembered!!](https://www.youtube.com/watch?v=AzVr_nsKoZs)
  - [The art of slide design](https://www.youtube.com/watch?v=e5gwEvQah-s)
  - [The day of your talk Checklist of everything to prepare so nothing can go wrong.](https://www.youtube.com/watch?v=m2j6-pjfvuo)
+ 
+##  Coaching
+
+If you wanna join us as a coach, please fill in [this form](https://goo.gl/forms/7XNAb9MhM7EqaZxa2) and we will reach out to 
+ask you whenever we are in need. 
+
+Thanks for your active support :heart:
 
 ## :clipboard: Organizing resources
 

@@ -95,7 +95,18 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 20. [Python beginners workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/20_python_beginners_workshop)
 21. [MicroPython IoT workshop](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/21_Micro_Python_IoT_Workshop)
 22. [Hardware Hackevening Resources](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/22_Hardware_hack_evening)
-23. [Data Wrangling with Pandas](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/23_Data_Wrangling_Pandas)
+23. [Data Wrangling with Pandas](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/23_Data_Wrangling_Pandas) ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/262358177/))
+24. [Developers X Operations AKA devops! Docker edition](https://github.com/emilywoods/pyladies-docker-workshop)
+  (slides included in the repo), ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/264674547))
+25. [TDD workshop](https://github.com/anapaulagomes/tdd-workshop)
+([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/260832361/))
+26. [Build and Implement a Deep Learning Speech Classifier in Python](https://github.com/a-n-rose/Build-CNN-or-LSTM-or-CNNLSTM-with-speech-features), 
+([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/258238053/))
+27. [Getting started with PyMC and Bayesian Modelling](https://github.com/corriebar/PyLadies-Bayesian-Tutorial), 
+([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/268066521/))
+28. [Noise filters in Python](https://notebooks.ai/a-n-rose), 
+Make a free account in https://i.notebooks.ai/i/qrtJj3 to access, ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/263676106B))
+29. [Building a data science project from scratch](https://github.com/jkokatjuhha/workshop_berlin_rental_apartment), ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/251789319/)), many nice resource in the requirements
 
 ## :microphone: Public speaking - Call for Proposals - CFP
 Brilliant talks about public speaking in conferences.

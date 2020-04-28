@@ -107,6 +107,7 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 28. [Noise filters in Python](https://notebooks.ai/a-n-rose), 
 Make a free account in https://i.notebooks.ai/i/qrtJj3 to access, ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/263676106B))
 29. [Building a data science project from scratch](https://github.com/jkokatjuhha/workshop_berlin_rental_apartment), ([Meetup event](https://www.meetup.com/PyLadies-Berlin/events/251789319/)), many nice resource in the requirements
+30. [Web Scraping with Scrapy and MongoDB running on Docker](https://github.com/laufergall/webscraping_workshop)
 
 ## :microphone: Public speaking - Call for Proposals - CFP
 Brilliant talks about public speaking in conferences.

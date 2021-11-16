@@ -71,6 +71,13 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 - Learn IT, Girl! (https://www.learnitgirl.com) *(mentoring scheme over 12 weeks, beginner friendly, requires an application)*
 - Python Study Group organized by the Anita B.Org community (https://anitab.org) *(beginner friendly, requires an application, follows this (free) Python course https://www.udemy.com/share/101r6uAkAedVpURHg=/)*
 
+## Open source Projects to get involved with
+- [Numfocus](https://github.com/numfocus)
+- [Scipy](https://scipy.org/)
+- [Like to hear](https://github.com/liketohear/liketohear)
+
+You can also find more projects on the [open source diversity forum](https://discourse.opensourcediversity.org/c/projects/7)
+
 ## 💾 Slides, exercises and materials from past workshops 
 
 1. [Introduction to programming with python](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/1_introduction_to_programming_with_python)

@@ -124,6 +124,8 @@ Brilliant talks about public speaking in conferences.
  - [Your perfect tech talk Prepare a talk to be remembered!!](https://www.youtube.com/watch?v=AzVr_nsKoZs)
  - [The art of slide design](https://www.youtube.com/watch?v=e5gwEvQah-s)
  - [The day of your talk Checklist of everything to prepare so nothing can go wrong.](https://www.youtube.com/watch?v=m2j6-pjfvuo)
+
+ Find some slides with great tips from our own CFP writing event [here](./materials/PyLadies-CfP-PyConDE_PyDataBer.pdf)
  
 ##  Coaching
 

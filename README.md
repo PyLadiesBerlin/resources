@@ -80,6 +80,7 @@ You can also find more projects on the [open source diversity forum](https://dis
 
 ## 💾 Slides, exercises and materials from past workshops 
 
+0. [Getting started - setting up your machine](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/0_installation_party)
 1. [Introduction to programming with python](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/1_introduction_to_programming_with_python)
 2. [Understanding the web basics](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/2_understanding_the_web_basics)
 3. [Introduction to Django](https://github.com/PyLadiesBerlin/resources/tree/master/workshops/3_introduction_to_django)

@@ -24,7 +24,7 @@ Check if you already have python installed by writing the following in a termina
 python --version
 ```
 
-Linux and macOS might be familiar with terminals, if you are using windows you
+Linux and macOS users might be familiar with terminals, if you are using windows you
 can try executing `cmd` from your applications, it should open a black window
 where you can write.
 

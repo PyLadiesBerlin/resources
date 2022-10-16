@@ -18,30 +18,51 @@ Supporting can range from one off events, regular or a series of events, handlin
 *"I love contributing to the community. I consider myself a self taught/ community taught developer and I am thankful to those who supported me on my journey transitioning into tech. I spend around 4-5 hours a week doing various tasks including talking to other community members, answering emails, checking and posting on our social media platforms, facilitating events as well as creating content. I mentor other community members who wish to get involved and speak to folks who are making similar transitions to myself to give them some insight and encouragement. I joined the org team in 2018 when I was transitioning into tech, though I had no technical skills at that point I could support with setting up events. I have taken a couple of breaks from being an organizer when I needed to put my focus elsewhere, but find myself returning due to the reasons above and because of the many friends I have made. I couldn't imagine not being involved in some capacity."*
 ***- Jessica Greene***
 
+
+*"As a student, it was really nice to be completely embraced and equally valued by other ladies, joining and organizing PyLadies events also gave me an opportunity to meet people working with Python and learning about the tools being used in the industry."* 
+***- F***
+
+
+*"I love being part of the PyLadies community because I love connecting with like minded people, supporting each other, and working together towards PyLadies’ mission."*
+***- M***
+
+
+*"For a long time I felt like I did not belong in tech. On the way, I met many people who felt as I did. This motivated me to try my best to make others feel included in the PyLadies community. Through building a community, I have found my way to belong as well."*
+***- L***
+
+
+*"It is because of this group, in chapters in Rio de Janeiro, Mexico City and especially Berlin, that I was able to change careers and meet my closest care network. Especially in Berlin, a city with more than 30% foreigners far from their family network, PyLadies makes a bit of a difference in life."*
+***- P***
+
+
+*"I met some of the most supportive and inspiring organizers at PyLadies. It’s a great place to share knowledge and learn. To get motivated, and inspired, and pass on sponsorship opportunities as you get ahead in you career - pay it forward. I can’t think of a better network with worthier more hardworking, giving and sincere folks. I truly cherish these connections and experiences. So grateful."*
+***- N***
+
 ## Ways you can get involved
 
 As we mentioned there are many ways to get involved. Some of the most common ways include:
 
 - [giving a talk or workshop](./giving_a_workshop_or_talk.md)
-- [facilitating an event](./facilitaing_events.md)
+- [facilitating an event](./facilitating_events.md)
 - [being a coach or mentor](./coaching.md)
 - [helping other on slack](./coaching.md#support-others-on-slack)
 - [managing our social media platforms](./social_media.md)
 - [managing our emails](./accounts.md#email-account-management)
 
-However perhaps you see an opportunity we have not yet identified, we welcome ideas and suggestions. If you want to discuss them more we suggest attending our [monthly org meeting](#monthly-org-meetings) which takes place on the last Thursday of the month, we post reminders including details on how you can join in our slack.
+### Other ways you might support the community
 
+However perhaps you see an opportunity we have not yet identified, we welcome ideas and suggestions. If you want to discuss them more we suggest attending our [monthly org meeting](#monthly-org-meetings) which takes place on the last Thursday of the month, we post reminders including details on how you can join in our slack.
 
 ## Recognizing your work, what we can offer
 
-While we can't normally financially compensate folks for their work we still think it's important to recognize those who make our community so awesome :sparkle: we therefore have a couple ways that we can highlight your work:
+While we normally can't financially compensate folks for their work we still think it's important to recognize those who make our community so awesome :sparkle: we therefore have a couple ways that we can highlight your work:
 
 - Add your volunteer work on your CV, we think it's pretty awesome that your supporting the community and so do employers! Incase you need a reference you can email us at [berlin@pyladies.com](mailto:berlin@pyladies.com) and we will do our best to write one from our official account.
 - Add your volunteer work on LinkedIn, you can add your volunteer work to PyLadies Berlin on your profile and let potential employers know that you are supporting the community. 
 
 *example of LinkedIn accreditation*
 
-<img ref="">
+<img ref=""> TODO add image
 
 - *coming soon* Add yourself to our website, we aim to make it easy to open a PR and add yourself as a contributor on our website. As soon as this is possible we will post information here.
 - *coming soon* Let us shout about you! We would love to make some noise about how you are supporting our community, we will collect some basic information so we can post on our social media platforms and show our appreciation.
@@ -72,6 +93,6 @@ We rotate facilitation of this meeting and if you are interesting in running the
 
 ## Ready for more?
 
-[back to main menu](../start_here.md)
-[supporting the community](./other_ways_to_support.md)
-[hosting PyLadies Berlin](./hosting_and_sponsorship.md#hosting-pyladies)
+[> back to the starting point](../start_here.md)
+[> other ways to support the community](./supporting_pyladies.md#other-ways-you-might-support-the-community)
+[> hosting PyLadies Berlin](./hosting_and_sponsorship.md#hosting-pyladies)

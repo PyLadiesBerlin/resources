@@ -40,11 +40,11 @@ Every person involved in our events should comply with our [Code of Conduct](htt
 
 ### Job Postings
 
-We have a slack channel for job posts; you can join our slack [here]()
+We have a slack channel for job posts; you can join our slack [here](TODO add link)
 
 ### Company speaker(s)
 
-We normally reserve a 5-10 minutes slot after our introduction for a host/sponsor presentation. Speakers should check out our [speakers guide](). Note that:
+We normally reserve a 5-10 minutes slot after our introduction for a host/sponsor presentation. Speakers should check out our [speakers guide](./speakers_guide.md). Note that:
    - Audience level may vary significantly and there will be folks at all stages of their career 
    - We therefore ak that you assume no prior knowledge but infinite intelligence.
    - Consider "folks" instead of "guys" and try to use other inclusive language (find more examples in our speaker guide)
@@ -69,7 +69,7 @@ At the moment as we have no community bank account it is easiest if the company 
 
 ### Resource Donations
 
-We have also received donations of books and software licenses which we can then raffle within the community. 
+We have also received and welcome donations of books and software licenses which we can then raffle within the community. 
 
 ### Conference Tickets
 
@@ -79,4 +79,10 @@ Please see our documentation on conferences [here](./conference.md)
 
 We are deeply grateful to those who have sponsored us already and that it means we can reward and thank those who make our community so special as well as contribute to our goal of making the space more inclusive.
 
-In return for your sponsorship we will add your logo to our website on the sponsors page, and give you a shout out on our social media. If the sponsorship is for swag we can make it co-branded (ie have your logo also on it) and if the sponsorship goes towards a specific event we will advertise it at the event and invite you to come introduce the company in a 5 minute slot at the start.
+In return for your sponsorship we will add your logo to our website on the sponsors page (still to be implemented), and give you a shout out on our social media. If the sponsorship is for swag we can make it co-branded (ie have your logo also on it) and if the sponsorship goes towards a specific event we will advertise it at the event and invite you to come introduce the company in a 5 minute slot at the start.
+
+## Ready for more?
+
+[> back to the starting point](../start_here.md)
+[> about PyLadies](./about_pyladies.md)
+[> giving a talk or workshop](./giving_a_workshop_or_talk.md)

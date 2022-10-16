@@ -6,7 +6,7 @@ This document is set up in the style of a choose your own adventure, it's purpos
 
 Because all events are unique and so are all organizers we try to cover different ways you can get involved so you can choose what works best for you. We also aim to answer questions we have received frequently to give you an idea of what this involves.
 
-As this is an evolving document it is not complete, so if you think something is missing please open an issue on the repository so we can help you and others.
+As this is an evolving document, it is not complete, so if you think something is missing please open an issue on the repository so we can help you and others.
 
 [> I want to learn more about PyLadies](./sub_pages/about_pyladies.md)  
 [> I want to learn more about what supporting PyLadies involves](./sub_pages/supporting_pyladies.md#what-you-can-expect)  
@@ -14,7 +14,7 @@ As this is an evolving document it is not complete, so if you think something is
 [> I have a workshop or talk idea that I would like to share with the community](./sub_pages/giving_a_workshop_or_talk.md)  
 [> I would like to host PyLadies](./sub_pages/hosting_and_sponsorship.md#hosting-pyladies)  
 [> I would like to be a coach or mentor](./sub_pages/coaching.md)  
-[> I would like to support beyond events ie social media, website, code of conduct etc](./sub_pages/other_ways_to_support.md)  
+[> I would like to support beyond events ie social media, website, code of conduct etc](./sub_pages/supporting_pyladies.md#other-ways-you-might-support-the-community)  
 [> I work for a company that would like to host and or sponsor PyLadies](./sub_pages/hosting_and_sponsorship.md)  
 [> I would like to advertise a job position/s](./sub_pages/hosting_and_sponsorship.md#job-postings)  
 [> I am organizing another chapter and interested in any resources available to run events](#organizing-resources)  
@@ -27,14 +27,14 @@ Alternatively here is a table of contents to find specific resources more quickl
 
 ### At a glance
 - [Global PyLadies website](https://pyladies.com/)
-- [Berlin chapter website]()
+- [Berlin chapter website](TODO add website)
 - [meetup (events)](https://www.meetup.com/pyladies-berlin/)
 - [slack](https://pyladies.slack.com)
 - [FAQ](./faq.md)
 - [Code of Conduct](https://www.pyladies.com/CodeOfConduct/)
 
 ### Event organizing
-- [Facilitating an event](./sub_pages/facilitaing_events.md)
+- [Facilitating an event](./sub_pages/facilitating_events.md)
 - Templates
   - [Email](./sub_pages/templates/email_templates.md)
   - [Meetup](./sub_pages/templates/meetup_template.md)
@@ -45,8 +45,8 @@ Alternatively here is a table of contents to find specific resources more quickl
 
 ### Speakers & coaches
 - [Speakers Guide](./sub_pages/speakers_guide.md)
-- [Coaches]
-- [Mentors Guide]()
+- [Mentors Guide](./sub_pages/coaching.md#mentoring-guide)
+- [Coaches](./sub_pages/coaching.md#be-a-coach-at-one-of-our-workshops)
 
 ### Accounts
 - [Our social media accounts](./sub_pages/social_media.md#over-view-of-accounts-we-have)

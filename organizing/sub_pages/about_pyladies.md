@@ -46,12 +46,14 @@ You can get a sense of the events we run by looking at the past events on [Meetu
 
 ### Joining our slack
 
+Slack is where you can find out about upcoming events, scholarship opportunities, jobs, learning resources, you can ask and answer questions, find mentors and join discussions about various topics including conversations about Python to being a gender minority in tech.
+
 1. [https://slackin.pyladies.com](https://slackin.pyladies.com) enter your email address.
 2. Accept the email invitation
 3. Go to the [workspace](https://pyladies.slack.com)
 4. Join the channels that interest you, we recommend #city-berlin, #city-germany #jobs-europe
 
-Every person involved in our events should comply with our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/)
+Every person involved in our events and online community should comply with our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/)
 
 ### Further reading
 
@@ -66,6 +68,6 @@ Every person involved in our events should comply with our [Code of Conduct](htt
 
 ## Ready for more?
 
-[back to main menu](../start_here.md)
-[supporting the community](./other_ways_to_support.md)
-[sponsoring PyLadies Berlin](./hosting_and_sponsorship.md#sponsoring-pyladies)
+[> back to start point](../start_here.md)
+[> supporting the community](./supporting_pyladies.md#other-ways-you-might-support-the-community)
+[> sponsoring PyLadies Berlin](./hosting_and_sponsorship.md#sponsoring-pyladies)

@@ -62,7 +62,7 @@ While we normally can't financially compensate folks for their work we still thi
 
 *example of LinkedIn accreditation*
 
-<img ref=""> TODO add image
+<img src="../assets/imgs/example_linkedin_volunteering.png" alt="screen shot of linkedin profile with volunteering at PyLadies Berlin">
 
 - *coming soon* Add yourself to our website, we aim to make it easy to open a PR and add yourself as a contributor on our website. As soon as this is possible we will post information here.
 - *coming soon* Let us shout about you! We would love to make some noise about how you are supporting our community, we will collect some basic information so we can post on our social media platforms and show our appreciation.

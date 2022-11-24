@@ -12,7 +12,7 @@ We suggest talks to be **30 mins or less** (time is aligned with conference talk
 We offer coaching. That means you can **discuss your talk/workshop material with one of us** and ask to go through the slides/workshop outline and give feedback. It is also possible to arrange a talk rehearsal session (dry run through) live or via video call. When you sign up to be a speaker we will give the option to request this. However if you want to discuss this more please get in touch with us!
 
 ### Filling in our speakers form
-Please fill in the [speaker's form](TODO add link) we will ask you questions so we can collect all the information we require and inform you about speaking at our events. This list is to give you an idea of what information we will be asking for, however details you don't know at the time can also be collected later.
+Please fill in the [speaker's form](https://forms.gle/K7qGPhzkuAfNmuWNA) we will ask you questions so we can collect all the information we require and inform you about speaking at our events. This list is to give you an idea of what information we will be asking for, however details you don't know at the time can also be collected later.
 * Talk/workshop title and description
 * length of your talk
 * short bio

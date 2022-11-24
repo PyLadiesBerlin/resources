@@ -20,7 +20,7 @@ Often we look for coaches for our events, this can be either for a one off or se
 
 ## Offer mentoring sessions
 
-Something else you might consider is setting time in your calendar free for folks to ask you questions or advice. You could use a tool like [Calendly](TODO add link) to set up "bookable" slots in your calendar where folks can join a video call to talk to you. Be sure you only offer as many slot as is sustainable for you and as always that the sessions follow our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
+Something else you might consider is setting time in your calendar free for folks to ask you questions or advice. You could use a tool like [Calendly](https://calendly.com/) to set up "bookable" slots in your calendar where folks can join a video call to talk to you. Be sure you only offer as many slot as is sustainable for you and as always that the sessions follow our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
 
 ### Mentoring guide
 

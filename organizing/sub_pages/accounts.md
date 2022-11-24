@@ -4,9 +4,17 @@
 
 To access the sites below you will need to be part of our google group and be given access to our shared last pass account. To get access please send an email to [berlin@pyladies.com](mailto:berlin@pladies.com). ⚠️ Please be careful if you need to update a password that it is indeed saved in our shared password manager (lastpass).
 
+### Tools
+
 - [google group](#google-group)
 - [last pass](https://www.lastpass.com) :- [getting started with our account sharing](#lastpass)
 - [2FA](#2fa)
+- [Zapier](https://zapier.com/)
+- [Trello](https://trello.com/b/6ugXFBTM/pyladies-berlin)
+- [Telynx](https://telnyx.com/)
+- [Streamyard](https://streamyard.com/)
+
+### Social accounts
 
 - [Meetup](https://www.meetup.com/pyladies-berlin)
 - [PyLadies email](mailto:berlin@pyladies.com) :- [email account management](#email-account-management)
@@ -15,11 +23,7 @@ To access the sites below you will need to be part of our google group and be gi
 - [LinkedIn](https://www.linkedin.com/in/pyladies-berlin-32879a18a/)
 - [Facebook](https://www.facebook.com/PyLadiesBerlin)
 - [YouTube](https://www.youtube.com/user/PyLadiesBerlin)
-- [Twitch](TODO add link)
-- [Zapier](TODO add link)
-- [Trello](TODO add link)
-- [Telynx](TODO add link)
-- [Streamyard](TODO add link)
+- [Twitch](https://www.twitch.tv/pyladiesberlin)
 
 
 For guidelines on how for our social media accounts you can check out our documentation [here](./social_media.md).

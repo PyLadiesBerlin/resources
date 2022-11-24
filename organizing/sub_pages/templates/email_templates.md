@@ -9,7 +9,7 @@ Hi {POSITION_ADVERTISER},
 
 It is great to see that {COMPANY NAME} wants to share your open positions with our community. As well as reaching a community of talented Python engineers you can also increase diversity by hiring members of our community, however we would strongly recommend that you also look into achieving inclusion that can sustain such diversity. We also highly recommend reading Elizabeth Black's short article [1] regarding writing inclusive job descriptions incase you are not already familiar with it.
 
-If you'd like, you're welcome to share your job posts in our slack [2] in the channels #jobs and #jobs-europe [TODO check slack channel name]. We recommend that you explicitly mention what makes the working environment inclusive as this is important to many of our members.
+If you'd like, you're welcome to share your job posts in our slack [2] in the channels #jobs and #jobs-europe. We recommend that you explicitly mention what makes the working environment inclusive as this is important to many of our members.
 
 [1] [How to write effective and inclusive job descriptions](https://medium.com/@meb_57007/writing-effective-and-inclusive-job-descriptions-ace2a302f30a)
 
@@ -88,7 +88,7 @@ we are really happy to know {HOST NAME} would like to support our community by h
 In the form you mentioned you would be able to also supply catering if you are still able to provide this please let us know, as we don't have any bank accounts for our community it is our preference that you order and pay for this. We can help with suggesting services we have used in the past, let us know if you need any support. We normally have 30-50 attendees but will confirm the expected number of attendees one week before the event.
 
 [OPTIONAL IF THEY OFFERED CHILD CARE]
-In the form you mentioned you would be able to also supply child care, we will open a form to collect the requirements from attendees, we will share the results as soon as we have them, latest 3 weeks before the event. We ask that you book the child care direct, if you have a service you are already familiar with then it is fine you use it, in the past we have used the following service and can recommend it: TODO add child care link
+In the form you mentioned you would be able to also supply child care, we will open a form to collect the requirements from attendees, we will share the results as soon as we have them, latest 3 weeks before the event. We ask that you book the child care direct, if you have a service you are already familiar with then it is fine you use it, in the past we have used the following service and can recommend it: www.babysitter-express.de We are also aware of https://www.nikis-kinderclub.de/ as a potential alternative.
 
 Greetings,
 {PYLADY} & the Berlin PyLadies :woman_technologist::snake:
@@ -110,7 +110,7 @@ our meetup is coming up and we are much looking forward to collaborating with {H
 
 If you have any outstanding questions please let us know. We have {NUMBER OF ATTENDEES ON MEETUP} signed up and based on previous experience are expecting roughly {NUMBER OF ATTENDEES ON MEETUP / 3} to {NUMBER OF ATTENDEES ON MEETUP / 2} attendees (though please note this can be difficult to predict).
 
-We will come to the location circa half an hour before the event to check the set up and allow for speakers to test their slides. If you require us to support folks coming into the location let us know so we can ensure there is someone available to do this. In our [Google drive](https://docs.google.com/presentation/d/1_SNnpaWBK3I74e4TWW4wudf6JMGBSYaq_90W2BiCiEk/edit?usp=sharing) you will find a couple of PyLadies branded signs which can be used to help guide attendees to the right place (if you prefer to make your own please use one of logos found [here](TODO add link and move old ones to archive)).
+We will come to the location circa half an hour before the event to check the set up and allow for speakers to test their slides. If you require us to support folks coming into the location let us know so we can ensure there is someone available to do this. In our [Google drive](https://docs.google.com/presentation/d/1_SNnpaWBK3I74e4TWW4wudf6JMGBSYaq_90W2BiCiEk/edit?usp=sharing) you will find a couple of PyLadies branded signs which can be used to help guide attendees to the right place (if you prefer to make your own please use one of logos found [here](https://drive.google.com/drive/folders/1dV2Ezol4Ikf3J2a1TtZ8hfrLrhl2rOY5?usp=sharing)).
 
 You can find our planned agenda (including when you have time to present yourselves) on our meetup page: {EVENT MEETUP PAGE}
 

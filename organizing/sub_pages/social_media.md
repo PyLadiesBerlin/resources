@@ -39,12 +39,12 @@ There is a private channel called #organizers which has organizers from all the 
 #### Integrations
 
 We have a number of integrations in slack
-- [Zapier](TODO add link)
+- [Zapier](https://zapier.com/)
 	This allows us to post our tweets in slack automatically as well as sending them to our Facebook group. It can also be used to automate other such interactions, however we only use the free version which limits how many "zaps" we can set up.
-- [Workflows](TODO add link)
+- [Workflows](https://api.slack.com/workflows)
 	Workflows in slack are useful for guiding members to different resources and collecting information. We have a couple of workflows set up for when members join certain channels and also for creating events. They can be created and updated in the slack settings.
-- [2FA](TODO add link)
-	Our 2FA account uses Telynx to post in slack. [Read more on our 2FA](./accounts.md#2fa)
+- 2FA
+	Our 2FA account uses [Telynx](https://telnyx.com/) to post in slack. [Read more on our 2FA](./accounts.md#2fa)
 
 
 ### Twitter

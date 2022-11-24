@@ -5,8 +5,8 @@ You can copy the draft event found [here](https://www.meetup.com/pyladies-berlin
 - [] Remember to update the date, time & location
 - [] Give the meetup a catchy but relevant title
 - [] Make it clear if the event is online, in person or hybrid
-- [] Add a photo, this could from previous meetups (which we have stored in our [google drive](TODO add website)) or something relevant to the topic.
-- [] If there is childcare you might want to attach a [form](TODO add link) so people can sign up
+- [] Add a photo, this could from previous meetups (which we have stored in our [google drive](https://drive.google.com/drive/folders/1aoTzqwDEBTDTXAJaRF9KOWo6PJKDasmk?usp=sharing) - you will need to retrieve access) or something relevant to the topic.
+- [] If there is childcare you might want to attach a so people can sign up. ([example form](https://docs.google.com/forms/d/e/1FAIpQLSeMraRbGlXI1uAV1XoTNHrmUBbXGgBTnRbUHOfcCzIj4dcyhw/viewform?usp=share_link) - you will need to retrieve access)
 - [] Add the host information
 - [] Add additional information for finding the location (ie 3rd floor in hinterhof)
 - [] Add necessary COVID-19 safety measures information

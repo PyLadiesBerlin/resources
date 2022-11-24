@@ -40,7 +40,7 @@ Every person involved in our events should comply with our [Code of Conduct](htt
 
 ### Job Postings
 
-We have a slack channel for job posts; you can join our slack [here](TODO add link)
+We have a slack channel for job posts; you can join our slack [here](https://slackin.pyladies.com) and our find our workspace [here](https://pyladies.slack.com).
 
 ### Company speaker(s)
 

@@ -27,7 +27,7 @@ Alternatively here is a table of contents to find specific resources more quickl
 
 ### At a glance
 - [Global PyLadies website](https://pyladies.com/)
-- [Berlin chapter website](TODO add website)
+- [Berlin chapter website](https://berlin.pyladies.com/)
 - [meetup (events)](https://www.meetup.com/pyladies-berlin/)
 - [slack](https://pyladies.slack.com)
 - [FAQ](./faq.md)

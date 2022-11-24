@@ -25,7 +25,7 @@ In short anyone! If you have something you want to share with the community we e
 
 ## What running an event involves
 
-First you will need to decide on when you want your event to run, our regular sessions run each month on the third Tuesday of the month but you may choose to run an event on another date. Check our [overview](TODO add link) for events to see what others are planning and also look at the [google calendar](TODO add link) to see if any other groups are planning events around your chosen date, events can overlap but of course if we can avoid it we try to do so. Below is then a check list of things you will need to organize for the event, we tend to track these on our [trello board](https://trello.com/b/6ugXFBTM/pyladies-berlin), you can get access [here](https://trello.com/invite/b/6ugXFBTM/9b7e64e874384d15ba5deffb9c343116/pyladies-berlin).
+First you will need to decide on when you want your event to run, our regular sessions run each month on the third Tuesday of the month but you may choose to run an event on another date. Check our [overview](https://docs.google.com/spreadsheets/d/1qc_b39H33XJKjB8E2fkfYpRG19JXkhICesTK4PSTGAc/edit?usp=sharing) for events to see what others are planning and also look at the [google calendar](https://calendar.google.com/calendar/u/3?cid=Y19kaG1xbThpZmM4cW90b244cjhhczBoZ3Zmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to see if any other groups are planning events around your chosen date, events can overlap but of course if we can avoid it we try to do so. Below is then a check list of things you will need to organize for the event, we tend to track these on our [trello board](https://trello.com/b/6ugXFBTM/pyladies-berlin), you can get access [here](https://trello.com/invite/b/6ugXFBTM/9b7e64e874384d15ba5deffb9c343116/pyladies-berlin).
 
 
 ### In person event
@@ -73,13 +73,13 @@ Arrive 30-60 mins before and prepare the event.
 - [ ] During the COVID 19 pandemic (and perhaps later) there might be additional health checks such as vaccination status or proof of a recent test to allow entry
 
 #### During the event
-- [ ] Do introduction and Community announcements (You can find template slides to copy [here]())
+- [ ] Do introduction and Community announcements (You can find template slides to copy [here](https://docs.google.com/presentation/d/1uriUhoqOH4FH2BYzWgcRowE-MJTvtfpQHlLbHa-K5O4/edit?usp=share_link))
 - [ ] Take photos of all the speakers and audience
 - [ ] Tweet about it (or after the event with photos) ([template](./templates/social_media_templates.md#tweet-during-an-event))
 
 #### After the event
 - [ ] Tweet after event (if not done during the event) ([template](./templates/social_media_templates.md#tweet-after-an-event))
-- [ ] Upload photos to [google drive](TODO add link)
+- [ ] Upload photos to [google drive](https://drive.google.com/drive/folders/1hqNE_Ol8l8dqERk-PZ2xdODWV2Go7wLs?usp=sharing)
 - [ ] Open PR with resources to this repository
 - [ ] Email sponsors & host to thank them ([template](./templates/email_templates.md#sponsor-thank-you-email))
 - [ ] Copy feedback forms to [feedback spreadsheet](https://drive.google.com/file/d/1TnPorEJSaIn4ZE-dPDgLd-4d_0V7by0q/view)
@@ -125,7 +125,7 @@ Join the call or streamyard 30 mins before.
 
 #### During the event
 - [ ] Welcome people joining the call
-- [ ] Do introduction and Community announcements (You can find template slides to copy [here](TODO add link))
+- [ ] Do introduction and Community announcements (You can find template slides to copy [here](https://docs.google.com/presentation/d/1uriUhoqOH4FH2BYzWgcRowE-MJTvtfpQHlLbHa-K5O4/edit?usp=sharing))
 - [ ] Tweet about it (or after the event with photos) ([template](./templates/social_media_templates.md#tweet-during-an-event))
 
 #### After the event
@@ -145,13 +145,13 @@ Join the call or streamyard 30 mins before.
 
 As well as the tasks listed above you may also need help on the day, that could be to welcome people at registration, be coaches, watch for comments or questions during an online event or for general support because let's face it, its just more fun to do these things together. 🤗
 
-Once you have an idea for an event you can post in the slack channel [#city-berlin-event-organization](TODO add link) and use the command `/create an event proposal`this will give you a short questionnaire to capture the information about the event including what support you would like. You can also join our [monthly organizer meeting](./supporting_pyladies.md#monthly-org-meetings) and add your point to the agenda to ask for support there.
+Once you have an idea for an event you can post in the slack channel [#city-berlin-event-organization](https://pyladies.slack.com/archives/C02UJGVF8JW) and use the command `/create an event proposal`this will give you a short questionnaire to capture the information about the event including what support you would like. You can also join our [monthly organizer meeting](./supporting_pyladies.md#monthly-org-meetings) and add your point to the agenda to ask for support there.
 
-If you are looking for coaches then you can post directly in the channel [#city-germany-coaches](TODO add link), note that this channel has folks from all over Germany so be clear if this is for a remote event or one based in Berlin.
+If you are looking for coaches then you can post directly in the channel [#city-germany-coaches](https://pyladies.slack.com/archives/C02U8K95FQC), note that this channel has folks from all over Germany so be clear if this is for a remote event or one based in Berlin.
 
 ## Finding a host
 
-We have many hosts reaching out to us by email, we ask them to fill in the following [form](TODO Add link), this allows us to collect all the required information to pair them with an event. The collected information can be found in our [google drive](TODO add link) (note you will need to be part of our [google group](./accounts.md#google-group) to access this) We try to contact them 1-2 months before the event to book the date, you can use the following [template](./templates/email_templates.md#host-confirmation-email) to reach out to them. If companies are wondering what hosting involves you can point them to the information in this [repository](./hosting_and_sponsorship.md) and ask them to fill in the form linked before.
+We have many hosts reaching out to us by email, we ask them to fill in the following [form](https://forms.gle/mTkQXXaNpp25f3oS6), this allows us to collect all the required information to pair them with an event. The collected information can be found in our [google drive](https://docs.google.com/spreadsheets/d/15N5kAJcsTmwtalY0JsbH_hwjLrFpSh5JeV-uXF3b3-A/edit#gid=1904672576) (note you will need to be part of our [google group](./accounts.md#google-group) to access this) We try to contact them 1-2 months before the event to book the date, you can use the following [template](./templates/email_templates.md#host-confirmation-email) to reach out to them. If companies are wondering what hosting involves you can point them to the information in this [repository](./hosting_and_sponsorship.md) and ask them to fill in the form linked before.
 
 When choosing a host how many participants they can accommodate is often the deciding factor. Some location might also be able to sponsor food, childcare or have other factors that match the requirements of your event. In return for hosting we offer companies a 5-10 minute speaker spot at the start of the meetup and thank them on our socials. In the future we also want to add them to our website.
 
@@ -159,7 +159,7 @@ One week before the event we recommend sending the following [follow up email](.
 
 ## Finding speakers
 
-We usually ask community members directly to give talks and also have some that reach out to us by email. We ask potential speakers to fill in the following [form](TODO add link), this allows us to collect all the required information to announce the event. You can check if we have any speakers in the resulting [google sheet](TODO add link) (note that to access this you will need to be part of our [google group](./accounts.md#google-group)). 
+We usually ask community members directly to give talks and also have some that reach out to us by email. We ask potential speakers to fill in the following [form](https://forms.gle/K7qGPhzkuAfNmuWNA), this allows us to collect all the required information to announce the event. You can check if we have any speakers in the resulting [google sheet](https://docs.google.com/spreadsheets/d/15N5kAJcsTmwtalY0JsbH_hwjLrFpSh5JeV-uXF3b3-A/edit#gid=502229920) (note that to access this you will need to be part of our [google group](./accounts.md#google-group)). 
 
 Once you have a date for the event you can send an email (or slack message) to the speaker inviting them to the meetup and setting up a dry run (if requested), the [following template email](./templates/email_templates.md#speaker-invitation-email) should help you.
 
@@ -168,7 +168,7 @@ Around one week before the event we recommend sending this [follow up email](./t
 
 ## Setting up the meetup event
 
-We run our events mostly via Meetup.com (occasionally we use [eventbright](TODO add link)). To be able to create an event and see draft events you will need to be made an organizer in the group, you can [email](mailto:berlin@pyladies.com) us to request this. In the draft events we have a [template event](https://www.meetup.com/pyladies-berlin/events/279950871) which can be copied, the text and some tips can also be found in this [repository](./templates/meetup_template.md#meetup-template).
+We run our events mostly via Meetup.com (occasionally we use [eventbright](https://www.eventbrite.com/)). To be able to create an event and see draft events you will need to be made an organizer in the group, you can [email](mailto:berlin@pyladies.com) us to request this. In the draft events we have a [template event](https://www.meetup.com/pyladies-berlin/events/279950871) which can be copied, the text and some tips can also be found in this [repository](./templates/meetup_template.md#meetup-template).
 
 There are also some example events you can check: [workshop example](https://www.meetup.com/PyLadies-Berlin/events/258893777/), [talk example](https://www.meetup.com/PyLadies-Berlin/events/260312181/).
 
@@ -197,6 +197,8 @@ To access our Streamyard account you will need to get access to our lastpass, in
 
 TODO complete this section
 
-## Creating a QA with Slido
+** Its possible to have two events run at once
+
+## Creating a QA with Slido *(optional)*
 
 TODO

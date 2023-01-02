@@ -40,6 +40,25 @@ We are currently using Lastpass premium family (due to expire in Sept 2023) this
 
 For some of our accounts we have 2FA set up, this offers an additional layer of security but poses a problem of shared authentication. To get around this we have set up a phone number with Telynx that can be used for 2FA and sends messages to the slack channel #2fa-open
 
+### Example 2FA Googlemail
+
+With Google it is likely you will first see the following screen hat is linked to a specific device:
+
+<img src="../assets/imgs/2fa_1.png" width="400px"/>
+
+To avoid relying on finding the person with the device to find the code we set up the joint 2FA with Telynx. To use this you will need to choose `Try another way` at the bottom of the screen.
+
+
+<img src="../assets/imgs/2fa_2.png" width="400px"/>
+
+Then select `Get a verification code at (***)***_**17`
+
+<img src="../assets/imgs/2fa_3.png" width="400px"/>
+
+The code will be available in the PyLadies slack in the channel `#2fa-open`.
+
+
+
 ## Email account management
 
 - Add a label with your name when you are responsible to follow up on an email

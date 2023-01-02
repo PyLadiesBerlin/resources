@@ -50,3 +50,4 @@ Alternatively here is a table of contents to find specific resources more quickl
 
 ### Accounts
 - [Our social media accounts](./sub_pages/social_media.md#over-view-of-accounts-we-have)
+- [Account management](./sub_pages/accounts.md)

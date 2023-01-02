@@ -78,7 +78,9 @@ Transfer learning for computer vision - [https://github.com/ividal/TransferLearn
 
 You can also find more projects on the [open source diversity forum](https://discourse.opensourcediversity.org/c/projects/7)
 
-## 💾 Slides, exercises and materials from past workshops 
+## Past workshops
+
+### 💾 Slides, exercises and materials
 
 0. [Getting started - setting up your machine](./workshops/0_installation_party)
 1. [Introduction to programming with python](./workshops/1_introduction_to_programming_with_python)

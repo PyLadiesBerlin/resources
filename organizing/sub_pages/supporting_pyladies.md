@@ -36,7 +36,7 @@ Supporting can range from one off events, regular or a series of events, handlin
 
 
 *"I met some of the most supportive and inspiring organizers at PyLadies. It’s a great place to share knowledge and learn. To get motivated, and inspired, and pass on sponsorship opportunities as you get ahead in you career - pay it forward. I can’t think of a better network with worthier more hardworking, giving and sincere folks. I truly cherish these connections and experiences. So grateful."*
-***- N***
+***- Noa Tamir***
 
 ## Ways you can get involved
 

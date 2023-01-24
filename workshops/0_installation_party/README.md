@@ -134,7 +134,7 @@ git commit -m 'updated with my name'
 git push
 ```
 - Confirm that your changes are visible on GitHub *(on your fork)*
-- Celebrate - you are not finished with the set up! 🎉
+- Celebrate - you are now finished with the set up! 🎉
 
 ## Further reading and resources
 

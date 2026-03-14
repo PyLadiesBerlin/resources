@@ -1,0 +1,75 @@
+**Documenting the first PyLadies Germany & Switzerland Retreat**
+
+*January 17, 2026*
+
+At the start of 2026, organizers from PyLadies chapters across Germany and Switzerland gathered for their first retreat — a dedicated space to care, reflect, debate, and decide. The retreat brought together 12 people from five cities — Munich, Berlin, Erlangen, Zürich, and Hamburg — alongside a special guest from Brazil. The total cost of the retreat was 3,166.72 EUR, funded through the PyLadies Fund and fully documented in our [open fund request](https://github.com/PyLadiesGermany/PySV_PyLadies_fund/issues/69). What followed was two days of candid conversation about who we are, how we work, and where we want to go.
+
+For several years, a question has been growing louder in our organizing spaces: who takes care of the organizers? PyLadies communities run on volunteer labor, emotional work, and personal commitment — much of it carried quietly, without structured support. This gathering was a direct response. Nurturing the people who hold these communities together strengthens the communities themselves. The retreat is, in that sense, an investment in continuity, health, and resilience.
+
+---
+
+**Rethinking the PyLadies Fund**
+
+The Fund had never been formally reviewed since its creation — whether its mechanisms were working, whether it was accessible and transparent, and whether it reflected the diversity of chapters it serves. The answer, honestly, was not yet — and so we made changes.
+
+Going forward, only one approval will be required for funding requests from existing approvers, lowering the barrier that had previously slowed or discouraged chapters from applying. New organizers joining as approvers will be required to read the PyLadies Fund documentation before taking on that role — a meaningful step toward shared governance literacy.
+
+Zürich formally requested inclusion in the Fund, and a vote on Slack was called to formalize it. Speaker transportation costs will now be covered as a baseline commitment. We also agreed to publish a yearly recap of spending per chapter, making the Fund's activity legible to the wider community. Looking ahead, the Fund may eventually operate its own account to cover expenses upfront, removing friction for organizers managing costs on the ground.
+
+---
+
+**PyCon DE: What's Working and What Isn't**
+
+PyCon remains one of our most visible moments as a community — and one of the most demanding to organize well. This year, we took stock of what the PyLadies presence at PyCon actually feels like for attendees and organizers alike.
+
+The PyLadies lunch, a longstanding fixture, surfaced as a point of friction in 2025. Closed or cramped spaces made it harder for people to connect, and the format placed a burden on organizers without always delivering the community warmth it intended. We discussed replacing or supplementing it with a coffee format — a more flexible and lower-stakes setting for connection. Raffles should start earlier and be better coordinated across chapters.
+
+The booth remains a valuable anchor — a safe, open, engaging presence — and we want to keep it that way. A walking tour, which has worked well in the past, is worth revisiting. More broadly, the conversation pointed toward activities that reduce organizer load while increasing participant engagement: workshops, creative formats, exchanges over presentations.
+
+The intersection of technology and art also emerged as a thread worth pulling — specifically how women have historically collaborated at that boundary, and how PyLadies might create or share space with feminist organizations working at the same intersection, including in the context of AI. We discussed proposing a PyCon panel or workshop specifically addressing how to navigate discrimination and aggression toward FLINTA* people in tech spaces.
+
+---
+
+**Community Challenges: What Organizers Are Facing**
+
+Each chapter brought its own texture of difficulty to the table, and listening across them revealed common threads.
+
+Attracting and retaining organizers is a persistent challenge across chapters. Hamburg flagged the difficulty of drawing more women into leadership roles, while also navigating an imbalance in event attendance — too many men showing up to spaces intended as safer ones. Munich raised the question of career support and job search resources, and noted the continued difficulty of booking female speakers beyond the Python developer profile. Berlin named conduct violations and how to hold space more actively and intentionally.
+
+Zürich, newer to organizing, spoke to the very practical challenges of finding venues, securing sponsors, and identifying speakers — the foundational infrastructure that more established chapters have quietly built over years.
+
+The role of AI in community programming also surfaced as an open question. Chapters are navigating a tension between visibility — "put AI in front of it" — and depth, choosing topics that are genuinely most useful to their communities. This remains unresolved and worth continued conversation.
+
+---
+
+**Building Safer, More Supportive Spaces**
+
+The retreat gave significant time to a question that runs underneath all the logistics: how do we actually protect the people in our communities?
+
+The ideas that emerged were both structural and relational. A protocol for allies — including validation mechanisms and active scripts for how allies can engage with difficult situations — came up repeatedly. One concrete norm: if you are an ally attending a PyLadies event, bring a FLINTA* plus one. So did the value of working in pairs at events, establishing agreed signals for unsafe situations, and not sharing personal contact information with meetup attendees publicly.
+
+We discussed establishing a low-barrier communication channel specifically for organizers to support one another in difficult situations — a direct line between the people holding these spaces, rather than relying on public or high-friction channels.
+
+We also discussed making a repository of resources available on the PyLadies Germany GitHub — curated material on navigating hard situations, existing courses, and community-developed guidance. An allyship workshop, designed to be run by anyone and available online, was also proposed.
+
+One of the more subtle but important points: a slide in meetup introductions that makes the Code of Conduct tangible and behavioral, not just a linked document. "Don't walk up to people just to get their LinkedIn" is not a joke — it is exactly the kind of norm that needs saying aloud.
+
+---
+
+**On Tooling**
+
+A quieter but practical conversation touched on the community's reliance on Google tools and the desire to migrate away from them. Password management also came up as an unresolved gap in how chapters handle shared access securely. No decisions were made, but the intent to move toward more sustainable, privacy-respecting tooling is now on record.
+
+---
+
+**Looking Ahead**
+
+This retreat did not resolve everything. It was not meant to. What it did was surface the honest state of our communities — the energy, the gaps, the care that organizers bring — and anchor a set of decisions we can be accountable to through the year.
+
+We will revisit the Fund's state at the end of the year. We will work toward PyCon with clearer coordination. We will keep building the infrastructure — relational and practical — that makes PyLadies chapters places people want to be, and can be safe in.
+
+Meeting everyone who could participate in person was genuinely warming, and essential to sharing the load and building common solutions for better-supported communities.
+
+---
+
+*PyLadies Germany & Switzerland Retreat, January 2026.*

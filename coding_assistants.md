@@ -1,0 +1,80 @@
+
+- developers with ranging experience, 20 years to fresh out of their studies
+- consent for using AI tools
+- transcription tools being turned on in meetings before folks join or without asking
+- company version of chat gpt, 
+- system prompt as control layer
+- using for thesis
+  - looking to see if a framework can be developed for approaching this new paradyme of programming
+- often I didn't find it helped me
+- I had a data analyst task and I decided to use github copilot (gpt4.1)
+  - made very ofen the same mistake which I had to 
+- I used it for a coding assignment
+  - it made correct code for the sample file but not for the actual file
+  - it was good at explaning Django
+  - luckily I knew enough to understand where it was going wrong
+- will junior folks get more reliant on this and not understand and seniors maybe more efficient (because they know enough to make it work)
+  - hard to get internships
+  - also hard to get senior roles
+  - makes people stay longer in a role, this has a knock on for role rotation
+  - maybe AI creates new jobs, because AI will make many problems (ie cleaning up poor data pipelines, security)
+  - titles changing
+  - back to start up mode, need to be more agile than agile
+  - lots of hiring in pandemic, after this period alot of people were fired, this trickled down
+  - senior fired for three juniors
+  - many times where hiring for tech only requirement was to have a pulse
+  - ML engineers being hired but then doing other roles
+  - hiring pay for ML companies - but can end up 
+- no longer efficient to spend hours on hours to code something
+  - I ask it to explain the code in a learning.md file, any technical concepts I should know
+  - we need some strategies to keep junior engineers understanding the code deeper so they are engineers
+  - a talk from a bootcamp teacher, the AI tools help the students get initially faster results but they hit the point of deciding if it's for them or not later (time sink)
+- I am not using any assistant or AI, I feel I will forget things if I rely on them, I see juniors using them and they don't understand, repeating the same errors, I tell them to not use it
+- coding assistants
+  - cursor
+    - different models, shortcuts, comments, developing prompts
+    - tried gpt5 in launch week, prefer claude sonnet (more technnical)
+  - claude code in the terminal
+- writing typed code - the assistant are very verbose
+  - never write code that requires 100% of your thought process to understand it or you can't debug
+  - pearl a write only language
+- overwhelming reports of job loses
+  - can be concerning also for senior devs
+  - try to look at the positives, can iterate quick and learn higher level concepts very fast
+- software engineers are the middle class, so getting rid of them is essentially removing the middleclass
+- vibe code, you can now vibe to a MVP
+  - business model to fix these
+- what problems are we fixing?
+  - are we causing problems to fix
+- context coding over vibe coding
+  - ie claude.md or another file
+  - found it not following, it turned out there was a "bug" that told the model to only consider it if it considered it useful
+- how we feel emotionally
+  - some frustration but looking at positive side helps (otherwise get too frustrated)
+  - I got it to write some code, but it was wrong I felt I had to fight with it to get it to understand what I wanted/where it was wrong
+  - often I approach it when I feel lazy
+- how to isolate where the system runs
+  - agents can run commands
+  - security, lots of work to be done
+  - when will we see the first big breach, dependency issue
+  - asks to important many random libraries
+- human to err, to really mess it up you need a computer
+- coding review
+- code authorship, who owns the code if the assistant wrote it or changed it
+  - comment that it was written by AI and include the prompt
+  - reward system
+  - line of code, commits, moving tickets over to done
+  - whatever is measured people will work towards that statistics
+  - hard for maintainers, code coming potentially from AIs and this creates over head to review PRs where no one replies
+  - lack of funding going into open source, particullary python
+- waste of generations
+  - energy
+  - machine sympathy
+- how is it for senior engineers
+  - right now I don't know what I need to do so I have to research as a junior
+  - know the boundaries of the tooling and how to get something from it
+  - same process for seniors, ie we all use search engines but seniors know better the key words to use
+- better to train a junior than spend time getting the AI to do it
+- will it get so good to replace
+  - gpt5 described as being a PHD
+  - if you are not a domain expert than you don't know the expertise you don't know

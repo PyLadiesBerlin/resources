@@ -123,6 +123,12 @@ cd workshops/0_installation_party/
 python test_script.py
 ```
 - Confirm the output contains your given name
+- Add your changes using git
+
+```sh
+git add test_script.py
+```
+
 - Commit your change using git
 
 ```sh
